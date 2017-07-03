@@ -7,8 +7,7 @@
     "Exit Url": "NA",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "NA",
-    "": ""
+    "EventLabel": "NA"
   },
   {
     "Placement": "wsl1",
@@ -18,8 +17,7 @@
     "Exit Url": "/women/all-products/?cmpgn_four=stackitup&vc=STACK20",
     "Headline": "Spend P1200, Get 20% Off",
     "Subline": "Ends July 10, 12 noon. Valid on items in this page only",
-    "EventLabel": "SAL|Women|weoss3stackitupget20off|ALL|NA",
-    "": ""
+    "EventLabel": "SAL|Women|weoss3stackitupget20off|ALL|NA"
   },
   {
     "Placement": "wsr1",
@@ -29,8 +27,7 @@
     "Exit Url": "/women/all-products/?cmpgn_four=stackitup&vc=STACK30",
     "Headline": "Spend P1800, Get 30% Off",
     "Subline": "Ends July 10, 12 noon. Valid on items in this page only",
-    "EventLabel": "SAL|Women|weoss3stackitupget30off|ALL|NA",
-    "": ""
+    "EventLabel": "SAL|Women|weoss3stackitupget30off|ALL|NA"
   },
   {
     "Placement": "wh1",
@@ -40,8 +37,7 @@
     "Exit Url": "/women/all-products/?cmpgn_four=stackitup",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Women|weoss3stackitupget20offget30off|ALL|NA",
-    "": ""
+    "EventLabel": "SAL|Women|weoss3stackitupget20offget30off|ALL|NA"
   },
   {
     "Placement": "wn1",
@@ -51,8 +47,7 @@
     "Exit Url": "/women/dorina/special-price",
     "Headline": "Dorina - Up to 50% Off",
     "Subline": "Go on, flaunt your figure with these sensual lingerie",
-    "EventLabel": "SAL|Women|weoss3dorina|ALL|ZAP",
-    "": ""
+    "EventLabel": "SAL|Women|weoss3dorina|ALL|ZAP"
   },
   {
     "Placement": "wn2",
@@ -62,8 +57,7 @@
     "Exit Url": "/women/all-products/special-price/",
     "Headline": "END OF SEASON SALE",
     "Subline": "The best fashion at prices you can't resist - everything up to 70% off!",
-    "EventLabel": "SAL|Women|weoss3upto70off|ALL|NA",
-    "": ""
+    "EventLabel": "SAL|Women|weoss3upto70off|ALL|NA"
   },
   {
     "Placement": "wcu1",
@@ -73,8 +67,7 @@
     "Exit Url": "NA",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "NA",
-    "": "NA"
+    "EventLabel": "NA"
   },
   {
     "Placement": "wcu2",
@@ -84,8 +77,7 @@
     "Exit Url": "NA",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "NA",
-    "": "NA"
+    "EventLabel": "NA"
   },
   {
     "Placement": "wcu3",
@@ -95,8 +87,7 @@
     "Exit Url": "NA",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "NA",
-    "": "NA"
+    "EventLabel": "NA"
   },
   {
     "Placement": "wcu4",
@@ -106,8 +97,7 @@
     "Exit Url": "NA",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "NA",
-    "": "NA"
+    "EventLabel": "NA"
   },
   {
     "Placement": "wfb1",
@@ -117,8 +107,7 @@
     "Exit Url": "/women/zalora/special-price/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Women|weoss3zalora|ALL|NA",
-    "": ""
+    "EventLabel": "SAL|Women|weoss3zalora|ALL|NA"
   },
   {
     "Placement": "wfb2",
@@ -128,8 +117,7 @@
     "Exit Url": "/women/cotton-on-body/special-price/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Women|weoss3cottononbody|ALL|NA",
-    "": ""
+    "EventLabel": "SAL|Women|weoss3cottononbody|ALL|NA"
   },
   {
     "Placement": "wfb3",
@@ -139,8 +127,7 @@
     "Exit Url": "/women/rubi/special-price/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Women|weoss3rubi|ALL|NA",
-    "": ""
+    "EventLabel": "SAL|Women|weoss3rubi|ALL|NA"
   },
   {
     "Placement": "wfb4",
@@ -150,8 +137,7 @@
     "Exit Url": "/women/champion/special-price/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Women|weoss3champion|ALL|NA",
-    "": ""
+    "EventLabel": "SAL|Women|weoss3champion|ALL|NA"
   },
   {
     "Placement": "wfb5",
@@ -161,8 +147,7 @@
     "Exit Url": "/women/stylebox/special-price/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Women|weoss3stylebox|ALL|NA",
-    "": ""
+    "EventLabel": "SAL|Women|weoss3stylebox|ALL|NA"
   },
   {
     "Placement": "wfb6",
@@ -172,8 +157,7 @@
     "Exit Url": "/women/brush-works/special-price/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Women|weoss3brushworks|ALL|NA",
-    "": ""
+    "EventLabel": "SAL|Women|weoss3brushworks|ALL|NA"
   },
   {
     "Placement": "wc1",
@@ -183,8 +167,7 @@
     "Exit Url": "/women/shoes/sneakers/special-price",
     "Headline": "Shop Sneakers >",
     "Subline": "Shop Sneakers >",
-    "EventLabel": "SAL|Women|weoss3sneakers|ALL|NA",
-    "": ""
+    "EventLabel": "SAL|Women|weoss3sneakers|ALL|NA"
   },
   {
     "Placement": "wc2",
@@ -194,8 +177,7 @@
     "Exit Url": "/women/sports/sports-training/special-price/",
     "Headline": "Shop Sports Training >",
     "Subline": "Shop Sports Training >",
-    "EventLabel": "SAL|Women|weoss3sportstraining|ALL|NA",
-    "": ""
+    "EventLabel": "SAL|Women|weoss3sportstraining|ALL|NA"
   },
   {
     "Placement": "wc3",
@@ -205,8 +187,7 @@
     "Exit Url": "/women/clothing/tops/special-price",
     "Headline": "Shop Tops >",
     "Subline": "Shop Tops >",
-    "EventLabel": "SAL|Women|weoss3tops|ALL|NA",
-    "": ""
+    "EventLabel": "SAL|Women|weoss3tops|ALL|NA"
   },
   {
     "Placement": "wc4",
@@ -216,8 +197,7 @@
     "Exit Url": "/women/clothing/jeans/special-price",
     "Headline": "Shop Jeans >",
     "Subline": "Shop Jeans >",
-    "EventLabel": "SAL|Women|weoss3jeans|ALL|NA",
-    "": ""
+    "EventLabel": "SAL|Women|weoss3jeans|ALL|NA"
   },
   {
     "Placement": "wc5",
@@ -227,8 +207,7 @@
     "Exit Url": "/women/bags/sling-bags/special-price/",
     "Headline": "Shop Sling Bags >",
     "Subline": "Shop Sling Bags >",
-    "EventLabel": "SAL|Women|weoss3slingbags|ALL|NA",
-    "": ""
+    "EventLabel": "SAL|Women|weoss3slingbags|ALL|NA"
   },
   {
     "Placement": "msf1",
@@ -238,8 +217,7 @@
     "Exit Url": "NA",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "NA",
-    "": ""
+    "EventLabel": "NA"
   },
   {
     "Placement": "msl1",
@@ -249,8 +227,7 @@
     "Exit Url": "/men/all-products/?cmpgn_four=stackitup&vc=STACK20",
     "Headline": "Spend P1200, Get 20% Off",
     "Subline": "Ends July 10, 12 noon. Valid on items in this page only",
-    "EventLabel": "SAL|Men|meoss3stackitupget20off|ALL|NA",
-    "": ""
+    "EventLabel": "SAL|Men|meoss3stackitupget20off|ALL|NA"
   },
   {
     "Placement": "msr1",
@@ -260,8 +237,7 @@
     "Exit Url": "/men/all-products/?cmpgn_four=stackitup&vc=STACK30",
     "Headline": "Spend P1800, Get 30% Off",
     "Subline": "Ends July 10, 12 noon. Valid on items in this page only",
-    "EventLabel": "SAL|Men|meoss3stackitupget30off|ALL|NA",
-    "": ""
+    "EventLabel": "SAL|Men|meoss3stackitupget30off|ALL|NA"
   },
   {
     "Placement": "mh1",
@@ -271,8 +247,7 @@
     "Exit Url": "/men/all-products/?cmpgn_four=stackitup",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Men|meoss3tieredvc20off30off|ALL|NA",
-    "": ""
+    "EventLabel": "SAL|Men|meoss3tieredvc20off30off|ALL|NA"
   },
   {
     "Placement": "mn1",
@@ -282,8 +257,7 @@
     "Exit Url": "/men/special-price/?age=0-90",
     "Headline": "First-Time Markdowns",
     "Subline": "Don't blink, or you'll miss out on discounts up to 60% off on new items",
-    "EventLabel": "SAL|Men|meoss3firsttimemarkdown|ALL|NA",
-    "": ""
+    "EventLabel": "SAL|Men|meoss3firsttimemarkdown|ALL|NA"
   },
   {
     "Placement": "mn2",
@@ -293,8 +267,7 @@
     "Exit Url": "/men/all-products/?cmpgn_three=eoss3-restock",
     "Headline": "Restocks - Up to 60% off",
     "Subline": "Hurry, own these pack in stock items before they get snapped up again",
-    "EventLabel": "SAL|Men|meoss3restockupto60off|ALL|NA",
-    "": ""
+    "EventLabel": "SAL|Men|meoss3restockupto60off|ALL|NA"
   },
   {
     "Placement": "mfb1",
@@ -304,8 +277,7 @@
     "Exit Url": "/men/special-price/savile-row/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Men|meoss3savillerow|ALL|NA",
-    "": ""
+    "EventLabel": "SAL|Men|meoss3savillerow|ALL|NA"
   },
   {
     "Placement": "mfb2",
@@ -315,8 +287,7 @@
     "Exit Url": "/men/special-price/hollister/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Men|meoss3hollister|ALL|NA",
-    "": ""
+    "EventLabel": "SAL|Men|meoss3hollister|ALL|NA"
   },
   {
     "Placement": "mfb3",
@@ -326,8 +297,7 @@
     "Exit Url": "/men/special-price/birkenstock/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Men|meoss3birkenstock|ALL|NA",
-    "": ""
+    "EventLabel": "SAL|Men|meoss3birkenstock|ALL|NA"
   },
   {
     "Placement": "mfb4",
@@ -337,8 +307,7 @@
     "Exit Url": "/men/special-price/aeropostale/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Men|meoss3aeropostale|ALL|NA",
-    "": ""
+    "EventLabel": "SAL|Men|meoss3aeropostale|ALL|NA"
   },
   {
     "Placement": "mfb5",
@@ -348,8 +317,7 @@
     "Exit Url": "/men/casio/special-price/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Men|meoss3casio|ALL|NA",
-    "": ""
+    "EventLabel": "SAL|Men|meoss3casio|ALL|NA"
   },
   {
     "Placement": "mfb6",
@@ -359,8 +327,7 @@
     "Exit Url": "/men/kimberley-eyewear/special-price/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Men|meoss3kimberlyeyewear|ALL|NA",
-    "": ""
+    "EventLabel": "SAL|Men|meoss3kimberlyeyewear|ALL|NA"
   },
   {
     "Placement": "mc1",
@@ -370,8 +337,7 @@
     "Exit Url": "/men/clothing/hoodies-sweatshirts/special-price/?getSKU=AB423AA67GNSMY",
     "Headline": "Shop Hoodies & Sweatshirts >",
     "Subline": "Shop Hoodies & Sweatshirts >",
-    "EventLabel": "SAL|Men|meoss3hoodies|ALL|NA",
-    "": ""
+    "EventLabel": "SAL|Men|meoss3hoodies|ALL|NA"
   },
   {
     "Placement": "mc2",
@@ -381,8 +347,7 @@
     "Exit Url": "/men/accessories/belts/special-price/?getSKU=RI009AC07LJCMY",
     "Headline": "Shop Belts >",
     "Subline": "Shop Belts >",
-    "EventLabel": "SAL|Men|meoss3belts|ALL|NA",
-    "": ""
+    "EventLabel": "SAL|Men|meoss3belts|ALL|NA"
   },
   {
     "Placement": "mc3",
@@ -392,8 +357,7 @@
     "Exit Url": "/men/clothing/shirts/special-price/?getSKU=20275AA2F9BB12GS",
     "Headline": "Shop Shirts >",
     "Subline": "Shop Shirts >",
-    "EventLabel": "SAL|Men|meoss3shirts|ALL|NA",
-    "": ""
+    "EventLabel": "SAL|Men|meoss3shirts|ALL|NA"
   },
   {
     "Placement": "mc4",
@@ -403,8 +367,7 @@
     "Exit Url": "/men/bags/messenger-bags/special-price/?getSKU=MA449AC29ZXEMY",
     "Headline": "Shop Messenger Bags >",
     "Subline": "Shop Messenger Bags >",
-    "EventLabel": "SAL|Men|meoss3messengerbags|ALL|NA",
-    "": ""
+    "EventLabel": "SAL|Men|meoss3messengerbags|ALL|NA"
   },
   {
     "Placement": "mc5",
@@ -414,8 +377,7 @@
     "Exit Url": "/men/sports/sports-lifestyle/special-price/?getSKU=NI126AA70HRPPH",
     "Headline": "Shop Sports Lifestyle >",
     "Subline": "Shop Sports Lifestyle >",
-    "EventLabel": "SAL|Men|meoss3sportslifestyle|ALL|NA",
-    "": ""
+    "EventLabel": "SAL|Men|meoss3sportslifestyle|ALL|NA"
   },
   {
     "Placement": "ws1",
@@ -425,8 +387,7 @@
     "Exit Url": "/women/all-products/?cmpgn_four=stackitup",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Women|weoss3stackitupget20offget30off|ALL|NA",
-    "": ""
+    "EventLabel": "SAL|Women|weoss3stackitupget20offget30off|ALL|NA"
   },
   {
     "Placement": "wh1",
@@ -436,8 +397,7 @@
     "Exit Url": "/women/all-products/?cmpgn_four=stackitup",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Women|weoss3stackitupget20offget30off|ALL|NA",
-    "": ""
+    "EventLabel": "SAL|Women|weoss3stackitupget20offget30off|ALL|NA"
   },
   {
     "Placement": "wn1",
@@ -447,8 +407,7 @@
     "Exit Url": "/women/dorina/special-price",
     "Headline": "Dorina - Up to 50% Off",
     "Subline": "Go on, flaunt your figure with these sensual lingerie",
-    "EventLabel": "SAL|Women|weoss3dorina|ALL|ZAP",
-    "": ""
+    "EventLabel": "SAL|Women|weoss3dorina|ALL|ZAP"
   },
   {
     "Placement": "wn2",
@@ -458,8 +417,7 @@
     "Exit Url": "/men/all-products/special-price/",
     "Headline": "END OF SEASON SALE",
     "Subline": "The best fashion at prices you can't resist - everything up to 70% off!",
-    "EventLabel": "SAL|Women|weoss3upto70off|ALL|NA",
-    "": ""
+    "EventLabel": "SAL|Women|weoss3upto70off|ALL|NA"
   },
   {
     "Placement": "wc1",
@@ -469,8 +427,7 @@
     "Exit Url": "/women/shoes/sneakers/special-price",
     "Headline": "Shop Sneakers >",
     "Subline": "Shop Sneakers >",
-    "EventLabel": "SAL|Women|weoss3sneakers|ALL|NA",
-    "": ""
+    "EventLabel": "SAL|Women|weoss3sneakers|ALL|NA"
   },
   {
     "Placement": "wc2",
@@ -480,8 +437,7 @@
     "Exit Url": "/women/sports/sports-training/special-price/",
     "Headline": "Shop Sports Training >",
     "Subline": "Shop Sports Training >",
-    "EventLabel": "SAL|Women|weoss3sportstraining|ALL|NA",
-    "": ""
+    "EventLabel": "SAL|Women|weoss3sportstraining|ALL|NA"
   },
   {
     "Placement": "ms1",
@@ -491,8 +447,7 @@
     "Exit Url": "/men/all-products/?cmpgn_four=stackitup",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Men|meoss3tieredvc20off30off|ALL|NA",
-    "": ""
+    "EventLabel": "SAL|Men|meoss3tieredvc20off30off|ALL|NA"
   },
   {
     "Placement": "mh1",
@@ -502,8 +457,7 @@
     "Exit Url": "/men/all-products/?cmpgn_four=stackitup",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Men|meoss3tieredvc20off30off|ALL|NA",
-    "": ""
+    "EventLabel": "SAL|Men|meoss3tieredvc20off30off|ALL|NA"
   },
   {
     "Placement": "mn1",
@@ -513,8 +467,7 @@
     "Exit Url": "/men/all-products/?cmpgn_three=eoss3-restock",
     "Headline": "Restocks - Up to 60% off",
     "Subline": "Hurry, own these pack in stock items before they get snapped up again",
-    "EventLabel": "SAL|Men|meoss3restockupto60off|ALL|NA",
-    "": ""
+    "EventLabel": "SAL|Men|meoss3restockupto60off|ALL|NA"
   },
   {
     "Placement": "mn2",
@@ -524,8 +477,7 @@
     "Exit Url": "/men/special-price/?age=0-90",
     "Headline": "First-Time Markdowns",
     "Subline": "Don't blink, or you'll miss out on discounts up to 60% off on new items",
-    "EventLabel": "SAL|Men|meoss3firsttimemarkdown|ALL|NA",
-    "": ""
+    "EventLabel": "SAL|Men|meoss3firsttimemarkdown|ALL|NA"
   },
   {
     "Placement": "mc1",
@@ -535,8 +487,7 @@
     "Exit Url": "/men/clothing/hoodies-sweatshirts/special-price/?getSKU=AB423AA67GNSMY",
     "Headline": "Shop Hoodies & Sweatshirts >",
     "Subline": "Shop Hoodies & Sweatshirts >",
-    "EventLabel": "SAL|Men|meoss3hoodies|ALL|NA",
-    "": ""
+    "EventLabel": "SAL|Men|meoss3hoodies|ALL|NA"
   },
   {
     "Placement": "mc2",
@@ -546,8 +497,7 @@
     "Exit Url": "/men/sports/sports-lifestyle/special-price/?getSKU=NI126AA70HRPPH",
     "Headline": "Shop Sports Lifestyle >",
     "Subline": "Shop Sports Lifestyle >",
-    "EventLabel": "SAL|Men|meoss3sportslifestyle|ALL|NA",
-    "": ""
+    "EventLabel": "SAL|Men|meoss3sportslifestyle|ALL|NA"
   },
   {
     "Placement": "uh1",
@@ -557,8 +507,7 @@
     "Exit Url": "NA",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "CAT|Unisex|homepagehero|ALL|NA",
-    "": ""
+    "EventLabel": "CAT|Unisex|homepagehero|ALL|NA"
   },
   {
     "Placement": "ub1",
@@ -568,8 +517,7 @@
     "Exit Url": "/all-products/special-price/",
     "Headline": "END OF SEASON SALE",
     "Subline": "The best fashion at prices you can't resist - everything up to 70% off!",
-    "EventLabel": "SAL|Women|weoss3upto70off|ALL|NA",
-    "": ""
+    "EventLabel": "SAL|Women|weoss3upto70off|ALL|NA"
   },
   {
     "Placement": "ub2",
@@ -579,8 +527,7 @@
     "Exit Url": "/women/all-products/?cmpgn_one=shbgacc30",
     "Headline": "Buy 3 or more, Get 30% Off",
     "Subline": "Valid only on landing page",
-    "EventLabel": "SAL|Women|weoss3rplbagsshoesaccbundle|ALL|NA",
-    "": ""
+    "EventLabel": "SAL|Women|weoss3rplbagsshoesaccbundle|ALL|NA"
   },
   {
     "Placement": "ub3",
@@ -590,7 +537,6 @@
     "Exit Url": "/men/special-price/?age=0-90",
     "Headline": "First-Time Markdowns",
     "Subline": "Don't blink, or you'll miss out on discounts up to 60% off on new items",
-    "EventLabel": "SAL|Men|meoss3firsttimemarkdown|ALL|NA",
-    "": ""
+    "EventLabel": "SAL|Men|meoss3firsttimemarkdown|ALL|NA"
   }
 ]
