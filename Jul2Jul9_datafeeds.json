@@ -13,201 +13,201 @@
     "Placement": "wsl1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/skinny-banner_996x25-W-tiered_Left.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_four=stackitup&vc=STACK20",
-    "Headline": "Spend P1200, Get 20% Off",
-    "Subline": "Ends July 10, 12 noon. Valid on items in this page only",
-    "EventLabel": "SAL|Women|weoss3stackitupget20off|ALL|NA"
+    "Image": "NA",
+    "Exit Url": "/women/all-products/?cmpgn_one=summer-steals&vc=summer18",
+    "Headline": "Get 18% Off! Use Code: Summer18",
+    "Subline": "Min spend of P1500. Ends June 26, 12nn. Valid only on items on this page.",
+    "EventLabel": "SAL|Women|weoss3vc18off|ALL|NA"
   },
   {
     "Placement": "wsr1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/skinny-banner_996x25-W-tiered_Right.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_four=stackitup&vc=STACK30",
-    "Headline": "Spend P1800, Get 30% Off",
-    "Subline": "Ends July 10, 12 noon. Valid on items in this page only",
-    "EventLabel": "SAL|Women|weoss3stackitupget30off|ALL|NA"
+    "Image": "NA",
+    "Exit Url": "/women/special-price/?cmpgn_one=omnibus60off",
+    "Headline": "End of season sale: up to 60% off",
+    "Subline": "Shop Now >",
+    "EventLabel": "SAL|Women|weoss3upto60off|ALL|NA"
   },
   {
     "Placement": "wh1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/W_Stack_it_up_hero-banner_996x500_2.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_four=stackitup",
+    "Image": "https://static-ph.zacdn.com/cms/DY/W_eoss3_UpTo60off_Hero_996x500.jpg",
+    "Exit Url": "/women/special-price/?cmpgn_one=omnibus60off",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Women|weoss3stackitupget20offget30off|ALL|NA"
+    "EventLabel": "SAL|Women|weoss3upto60off|ALL|NA"
   },
   {
     "Placement": "wn1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/Dorina_ZAP_N1_NEWARRIVALS_360x420.jpg",
-    "Exit Url": "/women/dorina/special-price",
-    "Headline": "Dorina - Up to 50% Off",
-    "Subline": "Go on, flaunt your figure with these sensual lingerie",
-    "EventLabel": "SAL|Women|weoss3dorina|ALL|ZAP"
+    "Image": "https://static-ph.zacdn.com/cms/DY/ALDO_N1_NEWARRIVALS_360x420.jpg",
+    "Exit Url": "/women/odlo/",
+    "Headline": "Odlo - 10% off all items",
+    "Subline": "Reach your fitness goals with gear that's engineered in Switzerland",
+    "EventLabel": "BRA|Women|wodlo|ALL|ZAP"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/W_EOSS_Upto70off_620x420.jpg",
-    "Exit Url": "/women/all-products/special-price/",
-    "Headline": "END OF SEASON SALE",
-    "Subline": "The best fashion at prices you can't resist - everything up to 70% off!",
-    "EventLabel": "SAL|Women|weoss3upto70off|ALL|NA"
+    "Image": "https://static-ph.zacdn.com/cms/DY/eoss3_W_CLN_ZAP_620x420.jpg",
+    "Exit Url": "/women/cln/special-price/",
+    "Headline": "CLN END OF SEASON SALE",
+    "Subline": "Up to 50% off on bags, clothing and shoes from your favorite local brand!",
+    "EventLabel": "SAL-BRA|Women|weoss3cln|ALL|ZAP"
   },
   {
     "Placement": "wcu1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "NA",
-    "Exit Url": "NA",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "NA"
+    "Image": "",
+    "Exit Url": "",
+    "Headline": "",
+    "Subline": "",
+    "EventLabel": ""
   },
   {
     "Placement": "wcu2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "NA",
-    "Exit Url": "NA",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "NA"
+    "Image": "",
+    "Exit Url": "",
+    "Headline": "",
+    "Subline": "",
+    "EventLabel": ""
   },
   {
     "Placement": "wcu3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "NA",
-    "Exit Url": "NA",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "NA"
+    "Image": "",
+    "Exit Url": "",
+    "Headline": "",
+    "Subline": "",
+    "EventLabel": ""
   },
   {
     "Placement": "wcu4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "NA",
-    "Exit Url": "NA",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "NA"
+    "Image": "",
+    "Exit Url": "",
+    "Headline": "",
+    "Subline": "",
+    "EventLabel": ""
   },
   {
     "Placement": "wfb1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/W_zalora_20170630_Dsk_322x165.jpg",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170616_FB_Dsk_322x165_w_adidas.jpg",
+    "Exit Url": "/women/sports/adidas/special-price/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL|Women|weoss3adidas|ALL|NA"
+  },
+  {
+    "Placement": "wfb2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170616_FB_W_ZALORA_322x165.jpg",
     "Exit Url": "/women/zalora/special-price/",
     "Headline": "NA",
     "Subline": "NA",
     "EventLabel": "SAL|Women|weoss3zalora|ALL|NA"
   },
   {
-    "Placement": "wfb2",
-    "Gender": "women",
-    "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/W_cottononbody_20170630_Dsk_322x165.jpg",
-    "Exit Url": "/women/cotton-on-body/special-price/",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "SAL|Women|weoss3cottononbody|ALL|NA"
-  },
-  {
     "Placement": "wfb3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/W_rubi_20170630_Dsk_322x165.jpg",
-    "Exit Url": "/women/rubi/special-price/",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170622_Mango_W_322x165.jpg",
+    "Exit Url": "/women/mango/special-price",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Women|weoss3rubi|ALL|NA"
+    "EventLabel": "SAL|Women|weoss3mango|ALL|NA"
   },
   {
     "Placement": "wfb4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/W_champion_20170630_Dsk_322x165.jpg",
-    "Exit Url": "/women/champion/special-price/",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170616_FB_W_RiverIsland_322x165.jpg",
+    "Exit Url": "/women/river-island/special-price",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Women|weoss3champion|ALL|NA"
+    "EventLabel": "SAL|Women|weoss3riverisland|ALL|NA"
   },
   {
     "Placement": "wfb5",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/W_styleboz_20170630_Dsk_322x165.jpg",
-    "Exit Url": "/women/stylebox/special-price/",
+    "Image": "https://static-ph.zacdn.com/cms/DY/2017-06-22_Addicts_322x165.jpg",
+    "Exit Url": "/women/shoes/addicts-anonymous/special-price",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Women|weoss3stylebox|ALL|NA"
+    "EventLabel": "SAL|Women|weoss3addictsanonymous|ALL|NA"
   },
   {
     "Placement": "wfb6",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/W_brushworks_20170630_Dsk_322x165.jpg",
-    "Exit Url": "/women/brush-works/special-price/",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170616_FB_W_CASIO_Featured_Brand_322x165.jpg",
+    "Exit Url": "/women/watches/casio/special-price/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Women|weoss3brushworks|ALL|NA"
+    "EventLabel": "SAL|Women|weoss3casio|ALL|NA"
   },
   {
     "Placement": "wc1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/20170630_Cat_Sneakers_300x198.jpg",
-    "Exit Url": "/women/shoes/sneakers/special-price",
-    "Headline": "Shop Sneakers >",
-    "Subline": "Shop Sneakers >",
-    "EventLabel": "SAL|Women|weoss3sneakers|ALL|NA"
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170616_W_C1245_300X198_BRUSHES.jpg",
+    "Exit Url": "/women/beauty/special-price",
+    "Headline": "Shop Beauty >",
+    "Subline": "Shop Beauty >",
+    "EventLabel": "SAL|Women|weoss3beauty|ALL|NA"
   },
   {
     "Placement": "wc2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/20170630_Cat_Sports_Training_1_300x198.jpg",
-    "Exit Url": "/women/sports/sports-training/special-price/",
-    "Headline": "Shop Sports Training >",
-    "Subline": "Shop Sports Training >",
-    "EventLabel": "SAL|Women|weoss3sportstraining|ALL|NA"
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170616_W_C1245_300X198_HEELS.jpg",
+    "Exit Url": "/women/shoes/heels/special-price",
+    "Headline": "Shop Heels >",
+    "Subline": "Shop Heels >",
+    "EventLabel": "SAL|Women|weoss3heels|ALL|NA"
   },
   {
     "Placement": "wc3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/20170630_Cat_Tops_375x500.jpg",
-    "Exit Url": "/women/clothing/tops/special-price",
-    "Headline": "Shop Tops >",
-    "Subline": "Shop Tops >",
-    "EventLabel": "SAL|Women|weoss3tops|ALL|NA"
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170616_W_C3_375X500_DRESSES.jpg",
+    "Exit Url": "/women/clothing/dresses/special-price",
+    "Headline": "Shop Dresses >",
+    "Subline": "Shop Dresses >",
+    "EventLabel": "SAL|Women|weoss3dresses|ALL|NA"
   },
   {
     "Placement": "wc4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/20170630_Cat_Jeans_300x198.jpg",
-    "Exit Url": "/women/clothing/jeans/special-price",
-    "Headline": "Shop Jeans >",
-    "Subline": "Shop Jeans >",
-    "EventLabel": "SAL|Women|weoss3jeans|ALL|NA"
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170616_W_eoss3-Sneakers_300x198_3.jpg",
+    "Exit Url": "/women/shoes/sneakers/special-price/",
+    "Headline": "Shop Sneakers >",
+    "Subline": "Shop Sneakers >",
+    "EventLabel": "SAL|Women|weoss3sneakers|ALL|NA"
   },
   {
     "Placement": "wc5",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/20170630_Cat_Sling_Bags_300x198.jpg",
-    "Exit Url": "/women/bags/sling-bags/special-price/",
-    "Headline": "Shop Sling Bags >",
-    "Subline": "Shop Sling Bags >",
-    "EventLabel": "SAL|Women|weoss3slingbags|ALL|NA"
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170616_W_300X198_BAGS_0526.jpg",
+    "Exit Url": "/women/bags/special-price/",
+    "Headline": "Shop Bags >",
+    "Subline": "Shop Bags >",
+    "EventLabel": "SAL|Women|weoss3bags|ALL|NA"
   },
   {
     "Placement": "msf1",
@@ -223,208 +223,208 @@
     "Placement": "msl1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/skinny-banner_495x25_Left.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_four=stackitup&vc=STACK20",
-    "Headline": "Spend P1200, Get 20% Off",
-    "Subline": "Ends July 10, 12 noon. Valid on items in this page only",
-    "EventLabel": "SAL|Men|meoss3stackitupget20off|ALL|NA"
+    "Image": "NA",
+    "Exit Url": "/men/all-products/?cmpgn_one=eoss3-great18off&vc=GREAT18",
+    "Headline": "Get 18% Off! Use Code: GREAT18",
+    "Subline": "End June 26, 12NN. Min spend P1,500. VC valid only on items on this page.",
+    "EventLabel": "SAL|Men|meoss3vc18off|ALL|NA"
   },
   {
     "Placement": "msr1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/skinny-banner_495x25_Right.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_four=stackitup&vc=STACK30",
-    "Headline": "Spend P1800, Get 30% Off",
-    "Subline": "Ends July 10, 12 noon. Valid on items in this page only",
-    "EventLabel": "SAL|Men|meoss3stackitupget30off|ALL|NA"
+    "Image": "NA",
+    "Exit Url": "/men/special-price/?discount=1-60",
+    "Headline": "End of season sale: up to 60% off",
+    "Subline": "Shop Now >",
+    "EventLabel": "SAL|Men|meoss3upto60off|ALL|NA"
   },
   {
     "Placement": "mh1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/w_stackitup_hero-banner_996x500.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_four=stackitup",
+    "Image": "https://static-ph.zacdn.com/cms/DY/eoss3_M_SEGMENT_HERO_SLICED_996x500.jpg",
+    "Exit Url": "/men/special-price/?discount=1-60",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Men|meoss3tieredvc20off30off|ALL|NA"
+    "EventLabel": "SAL|Men|meoss3upto60off|ALL|NA"
   },
   {
     "Placement": "mn1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/M_First_Time_Markdowns_N1_NEWARRIVALS_360x420.jpg",
-    "Exit Url": "/men/special-price/?age=0-90",
-    "Headline": "First-Time Markdowns",
-    "Subline": "Don't blink, or you'll miss out on discounts up to 60% off on new items",
-    "EventLabel": "SAL|Men|meoss3firsttimemarkdown|ALL|NA"
+    "Image": "https://static-ph.zacdn.com/cms/DY/Odlo_M_ZAP_N1_NEWARRIVALS_360x420.jpg",
+    "Exit Url": "/men/odlo/",
+    "Headline": "Odlo - 10% off all items",
+    "Subline": "Reach your fitness goals with gear that's engineered in Switzerland",
+    "EventLabel": "BRA|Men|modlo|ALL|ZAP"
   },
   {
     "Placement": "mn2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/M_restock_upto_60off_620x420.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_three=eoss3-restock",
-    "Headline": "Restocks - Up to 60% off",
-    "Subline": "Hurry, own these pack in stock items before they get snapped up again",
-    "EventLabel": "SAL|Men|meoss3restockupto60off|ALL|NA"
+    "Image": "https://static-ph.zacdn.com/cms/DY/M_RPL_Footwear_N2_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_five=rplfootwear-bags",
+    "Headline": "Shoes and Bags Up to 60% Off",
+    "Subline": "No outfit is complete without some additions fromour in-house labels",
+    "EventLabel": "SAL|Men|meoss3rplshoesbags|ALL|NA"
   },
   {
     "Placement": "mfb1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/M_saville-row_20170630_Dsk_322x165.jpg",
-    "Exit Url": "/men/special-price/savile-row/",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170616_FB_Dsk_322x165_m_adidas.jpg",
+    "Exit Url": "/men/adidas/special-price/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Men|meoss3savillerow|ALL|NA"
+    "EventLabel": "BRA|Men|meoss3adidas|ALL|NA"
   },
   {
     "Placement": "mfb2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/M_Hollister_20170630_B1-6_322x165.jpg",
-    "Exit Url": "/men/special-price/hollister/",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170622_Mango_M_322x165.jpg",
+    "Exit Url": "/men/mango-man/special-price/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Men|meoss3hollister|ALL|NA"
+    "EventLabel": "BRA|Men|meoss3mangoman|ALL|NA"
   },
   {
     "Placement": "mfb3",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/M_birkenstock_20170630_Dsk_322x165.jpg",
-    "Exit Url": "/men/special-price/birkenstock/",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170616_FB_Casio_Featured_Brand_322x165.jpg",
+    "Exit Url": "/men/casio/special-price/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Men|meoss3birkenstock|ALL|NA"
+    "EventLabel": "BRA|Men|meoss3casio|ALL|NA"
   },
   {
     "Placement": "mfb4",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/M_aeropostale_20170630_Dsk_322x165.jpg",
-    "Exit Url": "/men/special-price/aeropostale/",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170616_FB_Dsk_322x165_sonnix.jpg",
+    "Exit Url": "/men/sonnix/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Men|meoss3aeropostale|ALL|NA"
+    "EventLabel": "BRA|Men|meoss3sonnix|ALL|NA"
   },
   {
     "Placement": "mfb5",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/M_Casio_20170630_Featured_Brand.jpg",
-    "Exit Url": "/men/casio/special-price/",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170616_FB_M_Herschel_322x165.jpg",
+    "Exit Url": "/men/herschel/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Men|meoss3casio|ALL|NA"
+    "EventLabel": "BRA|Men|meoss3herschel|ALL|NA"
   },
   {
     "Placement": "mfb6",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/M_Kimberley-Eyewear_20170630_322x165.jpg",
-    "Exit Url": "/men/kimberley-eyewear/special-price/",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170616_FB_Dsk_322x165_wrangler.jpg",
+    "Exit Url": "/men/wrangler/special-price/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Men|meoss3kimberlyeyewear|ALL|NA"
+    "EventLabel": "BRA|Men|meoss3wrangler|ALL|NA"
   },
   {
     "Placement": "mc1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/20170630_Cat_Hoodies_300x198.jpg",
-    "Exit Url": "/men/clothing/hoodies-sweatshirts/special-price/?getSKU=AB423AA67GNSMY",
-    "Headline": "Shop Hoodies & Sweatshirts >",
-    "Subline": "Shop Hoodies & Sweatshirts >",
-    "EventLabel": "SAL|Men|meoss3hoodies|ALL|NA"
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170616_Cat_C1245_300X198_MENS_SHORTS.jpg",
+    "Exit Url": "/men/clothing/shorts/special-price/",
+    "Headline": "Shop Shorts >",
+    "Subline": "Shop Shorts >",
+    "EventLabel": "SAL|Men|meoss3shorts|ALL|NA"
   },
   {
     "Placement": "mc2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/20170630_Cat_Belts_300x198.jpg",
-    "Exit Url": "/men/accessories/belts/special-price/?getSKU=RI009AC07LJCMY",
-    "Headline": "Shop Belts >",
-    "Subline": "Shop Belts >",
-    "EventLabel": "SAL|Men|meoss3belts|ALL|NA"
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170616_Cat_C1245_300X198_MENS_POLO_TSHIRT.jpg",
+    "Exit Url": "/men/clothing/polo-shirts/special-price/",
+    "Headline": "Shop Polo Shirts >",
+    "Subline": "Shop Polo Shirts >",
+    "EventLabel": "SAL|Men|meoss3poloshirts|ALL|NA"
   },
   {
     "Placement": "mc3",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/20170630_Cat_Shirts_375x500.jpg",
-    "Exit Url": "/men/clothing/shirts/special-price/?getSKU=20275AA2F9BB12GS",
-    "Headline": "Shop Shirts >",
-    "Subline": "Shop Shirts >",
-    "EventLabel": "SAL|Men|meoss3shirts|ALL|NA"
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170616_Cat_C3_375X500_MENS_TSHIRT.jpg",
+    "Exit Url": "/men/clothing/t-shirts/special-price/",
+    "Headline": "Shop T-shirts >",
+    "Subline": "Shop T-shirts >",
+    "EventLabel": "SAL|Men|meoss3tshirts|ALL|NA"
   },
   {
     "Placement": "mc4",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/20170630_Cat_Messenger_300x198.jpg",
-    "Exit Url": "/men/bags/messenger-bags/special-price/?getSKU=MA449AC29ZXEMY",
-    "Headline": "Shop Messenger Bags >",
-    "Subline": "Shop Messenger Bags >",
-    "EventLabel": "SAL|Men|meoss3messengerbags|ALL|NA"
+    "Image": "https://static-ph.zacdn.com/cms/DY/C1245_300X198_MENS_SPORTS.jpg",
+    "Exit Url": "/men/sports/special-price/",
+    "Headline": "Shop Sports >",
+    "Subline": "Shop Sports >",
+    "EventLabel": "SAL|Men|meoss3sports|ALL|NA"
   },
   {
     "Placement": "mc5",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/20170630_Cat_SportsLifestyle_300x198.jpg",
-    "Exit Url": "/men/sports/sports-lifestyle/special-price/?getSKU=NI126AA70HRPPH",
-    "Headline": "Shop Sports Lifestyle >",
-    "Subline": "Shop Sports Lifestyle >",
-    "EventLabel": "SAL|Men|meoss3sportslifestyle|ALL|NA"
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170616_Cat_C1245_300X198_MENS_BACKPACKS.jpg",
+    "Exit Url": "/men/bags/backpacks/special-price/",
+    "Headline": "Shop Backpacks >",
+    "Subline": "Shop Backpacks >",
+    "EventLabel": "SAL|Men|meoss3backpacks|ALL|NA"
   },
   {
     "Placement": "ws1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-ph.zacdn.com/cms/DY/w_stack_it_up_mobileweb_skinnyGIF_700x200.gif",
-    "Exit Url": "/women/all-products/?cmpgn_four=stackitup",
+    "Image": "https://static-ph.zacdn.com/cms/DY/W_eoss3_UpTo60off_Mobile_Skinny_700x200.jpg",
+    "Exit Url": "/women/special-price/?cmpgn_one=omnibus60off",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Women|weoss3stackitupget20offget30off|ALL|NA"
+    "EventLabel": "SAL|Women|weoss3upto60off|ALL|NA"
   },
   {
     "Placement": "wh1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-ph.zacdn.com/cms/DY/W_Stack_it_up_mobile-hero_600x600.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_four=stackitup",
+    "Image": "https://static-ph.zacdn.com/cms/DY/W_eoss3_UpTo60off_Mobile Hero_600x600.jpg",
+    "Exit Url": "/women/special-price/?cmpgn_one=omnibus60off",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Women|weoss3stackitupget20offget30off|ALL|NA"
+    "EventLabel": "SAL|Women|weoss3upto60off|ALL|NA"
   },
   {
     "Placement": "wn1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-ph.zacdn.com/cms/DY/Dorina_ZAP_N2_NEWARRIVALS_620x420.jpg",
-    "Exit Url": "/women/dorina/special-price",
-    "Headline": "Dorina - Up to 50% Off",
-    "Subline": "Go on, flaunt your figure with these sensual lingerie",
-    "EventLabel": "SAL|Women|weoss3dorina|ALL|ZAP"
+    "Image": "https://static-ph.zacdn.com/cms/DY/eoss3_W_CLN_ZAP_620x420.jpg",
+    "Exit Url": "/women/cln/special-price/",
+    "Headline": "CLN END OF SEASON SALE",
+    "Subline": "Up to 50% off on bags, clothing and shoes from your favorite local brand!",
+    "EventLabel": "SAL-BRA|Women|weoss3cln|ALL|NA"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-ph.zacdn.com/cms/DY/W_EOSS_Upto70off_620x420.jpg",
-    "Exit Url": "/men/all-products/special-price/",
-    "Headline": "END OF SEASON SALE",
-    "Subline": "The best fashion at prices you can't resist - everything up to 70% off!",
-    "EventLabel": "SAL|Women|weoss3upto70off|ALL|NA"
+    "Image": "https://static-ph.zacdn.com/cms/DY/ALDO_N2_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "/women/odlo/",
+    "Headline": "Odlo - 10% off all items",
+    "Subline": "Reach your fitness goals with gear that's engineered in Switzerland",
+    "EventLabel": "BRA|Women|wodlo|ALL|ZAP"
   },
   {
     "Placement": "wc1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-ph.zacdn.com/cms/DY/20170630_Cat_Sneakers_300x198.jpg",
-    "Exit Url": "/women/shoes/sneakers/special-price",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170616_W_eoss3-Sneakers_300x198_3.jpg",
+    "Exit Url": "/women/shoes/sneakers/special-price/",
     "Headline": "Shop Sneakers >",
     "Subline": "Shop Sneakers >",
     "EventLabel": "SAL|Women|weoss3sneakers|ALL|NA"
@@ -433,77 +433,77 @@
     "Placement": "wc2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-ph.zacdn.com/cms/DY/20170630_Cat_Sports_Training_300x198.jpg",
-    "Exit Url": "/women/sports/sports-training/special-price/",
-    "Headline": "Shop Sports Training >",
-    "Subline": "Shop Sports Training >",
-    "EventLabel": "SAL|Women|weoss3sportstraining|ALL|NA"
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170616_W_300X198_BAGS_0526.jpg",
+    "Exit Url": "/women/bags/special-price/",
+    "Headline": "Shop Bags >",
+    "Subline": "Shop Bags >",
+    "EventLabel": "SAL|Women|weoss3bags|ALL|NA"
   },
   {
     "Placement": "ms1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-ph.zacdn.com/cms/DY/m_stackit_up_mobileweb_skinnyGIF_700x200.gif",
-    "Exit Url": "/men/all-products/?cmpgn_four=stackitup",
+    "Image": "https://static-ph.zacdn.com/cms/DY/eoss3_M_VC_18off_mobileweb_skinnyGIF_700x200.gif",
+    "Exit Url": "/men/all-products/?cmpgn_one=eoss3-great18off&vc=GREAT18",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Men|meoss3tieredvc20off30off|ALL|NA"
+    "EventLabel": "SAL|Women|weoss3vc18off|ALL|NA"
   },
   {
     "Placement": "mh1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-ph.zacdn.com/cms/DY/w_stackitup_mobile-hero_600x600.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_four=stackitup",
+    "Image": "https://static-ph.zacdn.com/cms/DY/eoss3_VC_Great18_600x600_Mobile.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=eoss3-great18off&vc=GREAT18",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Men|meoss3tieredvc20off30off|ALL|NA"
+    "EventLabel": "SAL|Women|weoss3vc18off|ALL|NA"
   },
   {
     "Placement": "mn1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-ph.zacdn.com/cms/DY/M_restock_upto_60off_620x420.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_three=eoss3-restock",
-    "Headline": "Restocks - Up to 60% off",
-    "Subline": "Hurry, own these pack in stock items before they get snapped up again",
-    "EventLabel": "SAL|Men|meoss3restockupto60off|ALL|NA"
+    "Image": "https://static-ph.zacdn.com/cms/DY/M_RPL_Footwear_N2_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_five=rplfootwear-bags",
+    "Headline": "Shoes and Bags Up to 60% Off",
+    "Subline": "No outfit is complete without some additions fromour in-house labels",
+    "EventLabel": "SAL|Men|meoss3rplshoesbags|ALL|NA"
   },
   {
     "Placement": "mn2",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-ph.zacdn.com/cms/DY/M_First_Time_Markdowns_N2_NEWARRIVALS_620x420.jpg",
-    "Exit Url": "/men/special-price/?age=0-90",
-    "Headline": "First-Time Markdowns",
-    "Subline": "Don't blink, or you'll miss out on discounts up to 60% off on new items",
-    "EventLabel": "SAL|Men|meoss3firsttimemarkdown|ALL|NA"
+    "Image": "https://static-ph.zacdn.com/cms/DY/Odlo_M_ZAP_N2_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "/men/odlo/",
+    "Headline": "Odlo - 10% off all items",
+    "Subline": "Reach your fitness goals with gear that's engineered in Switzerland",
+    "EventLabel": "BRA|Men|modlo|ALL|ZAP"
   },
   {
     "Placement": "mc1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-ph.zacdn.com/cms/DY/20170630_Cat_Hoodies_300x198.jpg",
-    "Exit Url": "/men/clothing/hoodies-sweatshirts/special-price/?getSKU=AB423AA67GNSMY",
-    "Headline": "Shop Hoodies & Sweatshirts >",
-    "Subline": "Shop Hoodies & Sweatshirts >",
-    "EventLabel": "SAL|Men|meoss3hoodies|ALL|NA"
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170616_Cat_C1245_300X198_MENS_SHORTS.jpg",
+    "Exit Url": "/men/clothing/shorts/special-price/",
+    "Headline": "Shop Shorts >",
+    "Subline": "Shop Shorts >",
+    "EventLabel": "SAL|Men|meoss3shorts|ALL|NA"
   },
   {
     "Placement": "mc2",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-ph.zacdn.com/cms/DY/20170630_Cat_SportsLifestyle_300x198.jpg",
-    "Exit Url": "/men/sports/sports-lifestyle/special-price/?getSKU=NI126AA70HRPPH",
-    "Headline": "Shop Sports Lifestyle >",
-    "Subline": "Shop Sports Lifestyle >",
-    "EventLabel": "SAL|Men|meoss3sportslifestyle|ALL|NA"
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170616_Cat_C1245_300X198_MENS_POLO_TSHIRT.jpg",
+    "Exit Url": "/men/clothing/polo-shirts/special-price/",
+    "Headline": "Shop Polo Shirts >",
+    "Subline": "Shop Polo Shirts >",
+    "EventLabel": "SAL|Men|meoss3poloshirts|ALL|NA"
   },
   {
     "Placement": "uh1",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/W_eoss3_UpTo60off_Homepage_Hero_996x500.jpg",
+    "Image": "https://static-ph.zacdn.com/cms/DY/HOMEPAGE_SPLASH_996x500-cw28-60off.jpg",
     "Exit Url": "NA",
     "Headline": "NA",
     "Subline": "NA",
@@ -513,30 +513,30 @@
     "Placement": "ub1",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/W_EOSS_Upto70off_322x300.jpg",
-    "Exit Url": "/all-products/special-price/",
-    "Headline": "END OF SEASON SALE",
-    "Subline": "The best fashion at prices you can't resist - everything up to 70% off!",
-    "EventLabel": "SAL|Women|weoss3upto70off|ALL|NA"
+    "Image": "https://static-ph.zacdn.com/cms/DY/W_Summer_Sale_eoss3_VC_18off_322x300.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=summer-steals&vc=summer18",
+    "Headline": "Get 18% Off",
+    "Subline": "Use Code: Summer18<br>Min spend of P1500",
+    "EventLabel": "SAL|Women|weoss3vc18off|ALL|NA"
   },
   {
     "Placement": "ub2",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/RPL_Shoes_Acc_bundle_322x300.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=shbgacc30",
-    "Headline": "Buy 3 or more, Get 30% Off",
-    "Subline": "Valid only on landing page",
-    "EventLabel": "SAL|Women|weoss3rplbagsshoesaccbundle|ALL|NA"
+    "Image": "https://static-ph.zacdn.com/cms/DY/eoss3_M_RPL_HP_322x300.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_five=rplfootwear-bags",
+    "Headline": "Shoes and Bags",
+    "Subline": "Up to 60% Off",
+    "EventLabel": "SAL|Women|weoss3rplshoesbags|ALL|NA"
   },
   {
     "Placement": "ub3",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/M_First_Time_Markdowns_Homepage_bottom_banner.jpg",
-    "Exit Url": "/men/special-price/?age=0-90",
-    "Headline": "First-Time Markdowns",
-    "Subline": "Don't blink, or you'll miss out on discounts up to 60% off on new items",
-    "EventLabel": "SAL|Men|meoss3firsttimemarkdown|ALL|NA"
+    "Image": "https://static-ph.zacdn.com/cms/DY/eoss3_W_dresses_up_to_60_Homepage_Banner_322x300.jpg",
+    "Exit Url": "/women/clothing/dresses/special-price",
+    "Headline": "Dresses",
+    "Subline": "Up to 60% Off",
+    "EventLabel": "SAL|Women|weoss3dressesupto60off|ALL|NA"
   }
 ]
