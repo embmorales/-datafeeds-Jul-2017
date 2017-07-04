@@ -263,11 +263,11 @@
     "Placement": "mn2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/M_restock_upto_60off_620x420.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_three=eoss-restock",
-    "Headline": "Back in Stock - Up to 60% off",
-    "Subline": "Hurry, own these pack in stock items before they get snapped up again",
-    "EventLabel": "SAL|Men|meoss3restockupto60off|ALL|NA"
+    "Image": "https://static-ph.zacdn.com/cms/DY/M_Omnibus_upto70off_620x420.jpg",
+    "Exit Url": "/men/all-products/special-price/",
+    "Headline": "END OF SEASON SALE",
+    "Subline": "The best fashion at prices you can't resist - everything up to 70% off!",
+    "EventLabel": "SAL|Men|meoss3upto70off|ALL|NA"
   },
   {
     "Placement": "mfb1",
