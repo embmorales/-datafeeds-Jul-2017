@@ -333,21 +333,21 @@
     "Placement": "mc1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/20170630_Cat_Hoodies_300x198.jpg",
-    "Exit Url": "/men/clothing/hoodies-sweatshirts/special-price/?getSKU=AB423AA67GNSMY",
-    "Headline": "Shop Hoodies & Sweatshirts >",
-    "Subline": "Shop Hoodies & Sweatshirts >",
-    "EventLabel": "SAL|Men|meoss3hoodies|ALL|NA"
+    "Image": "https://static-ph.zacdn.com/cms/DY/M_EOSS_Sneakers_300x198.jpg",
+    "Exit Url": "/men/shoes/sneakers/special-price/?getSKU=AD678SH51FWEPH",
+    "Headline": "Shop Sneakers >",
+    "Subline": "Shop Sneakers >",
+    "EventLabel": "SAL|Men|meoss3sneakers|ALL|NA"
   },
   {
     "Placement": "mc2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/20170630_Cat_Belts_300x198.jpg",
-    "Exit Url": "/men/accessories/belts/special-price/?getSKU=RI009AC07LJCMY",
-    "Headline": "Shop Belts >",
-    "Subline": "Shop Belts >",
-    "EventLabel": "SAL|Men|meoss3belts|ALL|NA"
+    "Image": "https://static-ph.zacdn.com/cms/DY/M_EOSS_Jackets-Vest_300x198.jpg",
+    "Exit Url": "/men/clothing/jackets-vests/special-price/?getSKU=BU102AA81ZGSPH",
+    "Headline": "Shop Jackets & Vests >",
+    "Subline": "Shop Jackets & Vests >",
+    "EventLabel": "SAL|Men|meoss3jacketsvest|ALL|NA"
   },
   {
     "Placement": "mc3",
@@ -483,21 +483,21 @@
     "Placement": "mc1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-ph.zacdn.com/cms/DY/20170630_Cat_Hoodies_300x198.jpg",
-    "Exit Url": "/men/clothing/hoodies-sweatshirts/special-price/?getSKU=AB423AA67GNSMY",
-    "Headline": "Shop Hoodies & Sweatshirts >",
-    "Subline": "Shop Hoodies & Sweatshirts >",
-    "EventLabel": "SAL|Men|meoss3hoodies|ALL|NA"
+    "Image": "https://static-ph.zacdn.com/cms/DY/M_EOSS_Sneakers_300x198.jpg",
+    "Exit Url": "/men/shoes/sneakers/special-price/?getSKU=AD678SH51FWEPH",
+    "Headline": "Shop Sneakers >",
+    "Subline": "Shop Sneakers >",
+    "EventLabel": "SAL|Men|meoss3sneakers|ALL|NA"
   },
   {
     "Placement": "mc2",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-ph.zacdn.com/cms/DY/20170630_Cat_SportsLifestyle_300x198.jpg",
-    "Exit Url": "/men/sports/sports-lifestyle/special-price/?getSKU=NI126AA70HRPPH",
-    "Headline": "Shop Sports Lifestyle >",
-    "Subline": "Shop Sports Lifestyle >",
-    "EventLabel": "SAL|Men|meoss3sportslifestyle|ALL|NA"
+    "Image": "https://static-ph.zacdn.com/cms/DY/M_EOSS_Jackets-Vest_300x198.jpg",
+    "Exit Url": "/men/clothing/jackets-vests/special-price/?getSKU=BU102AA81ZGSPH",
+    "Headline": "Shop Jackets & Vests >",
+    "Subline": "Shop Jackets & Vests >",
+    "EventLabel": "SAL|Men|meoss3jacketsvest|ALL|NA"
   },
   {
     "Placement": "uh1",
