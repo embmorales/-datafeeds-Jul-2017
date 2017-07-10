@@ -1,0 +1,542 @@
+[
+  {
+    "Placement": "wsf1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
+  },
+  {
+    "Placement": "wsl1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Skinny-left_buy-2.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_five=eoss-buy2get25off",
+    "Headline": "Buy 2, Get 25% off",
+    "Subline": "Take a break and enjoy this well-deserved style upgrade",
+    "EventLabel": "SAL|Women|weoss4rplbuy2get25off|ALL|NA"
+  },
+  {
+    "Placement": "wsr1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Skinny-left_everythinat1000.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_two=eoss-last-size",
+    "Headline": "LAST SIZE CLEARANCE",
+    "Subline": "Limited pieces left - grab them before stocks run out!",
+    "EventLabel": "SAL|Women|weoss4lastchanceclearance|ALL|NA"
+  },
+  {
+    "Placement": "wh1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/W_Buy2_get_25off_RPL_996x500.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_five=eoss-buy2get25off",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL|Women|weoss4rplbuy2get25off|ALL|NA"
+  },
+  {
+    "Placement": "wn1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/W_Kfashion_upto60off_Eoss_360x420.jpg",
+    "Exit Url": "/women/k-fashion/special-price/",
+    "Headline": "KOREAN FASHION- Up to 60% off",
+    "Subline": "Upgrade your wardrobe and indulgence in the latest styles inspired by the streets of Seoul",
+    "EventLabel": "SAL-CAT|Women|weoss4kfashionupto60off|ALL|NA"
+  },
+  {
+    "Placement": "wn2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/W_EOSS_Last_Chance_Clearance_620x420.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_two=eoss-last-size",
+    "Headline": "LAST SIZE CLEARANCE",
+    "Subline": "Limited pieces left - grab them before stocks run out!",
+    "EventLabel": "SAL|Women|weoss4lastchanceclearance|ALL|NA"
+  },
+  {
+    "Placement": "wcu1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
+  },
+  {
+    "Placement": "wcu2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
+  },
+  {
+    "Placement": "wcu3",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
+  },
+  {
+    "Placement": "wcu4",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
+  },
+  {
+    "Placement": "wfb1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/W_20170707_Topshop_322x165.jpg",
+    "Exit Url": "/women/topshop/special-price",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL|Women|weoss4topshop|ALL|NA"
+  },
+  {
+    "Placement": "wfb2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/W_20170707_ZALORA_322x165.jpg",
+    "Exit Url": "/women/zalora/special-price",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL|Women|weoss4zalora|ALL|NA"
+  },
+  {
+    "Placement": "wfb3",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/W_20170707_Jansport_322x165.jpg",
+    "Exit Url": "/women/bags/jansport/special-price",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL|Women|weoss4jansport|ALL|NA"
+  },
+  {
+    "Placement": "wfb4",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/W_20170707_Melissa_322x165.jpg",
+    "Exit Url": "/women/shoes/melissa/?sort=discount",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL|Women|weoss4melissa|ALL|NA"
+  },
+  {
+    "Placement": "wfb5",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/W_20170707_322x165_onitsuka-tiger.jpg",
+    "Exit Url": "/women/onitsuka-tiger/special-price",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL|Women|weoss4onitsukatiger|ALL|NA"
+  },
+  {
+    "Placement": "wfb6",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/W_20170707_Nuxe_322x165.jpg",
+    "Exit Url": "/women/nuxe/special-price",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL|Women|weoss4nuxe|ALL|NA"
+  },
+  {
+    "Placement": "wc1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/W_Cat_EOSS_20170707_Sandals.jpg",
+    "Exit Url": "/women/shoes/sandals/special-price/",
+    "Headline": "Shop Sandals >",
+    "Subline": "Shop Sandals >",
+    "EventLabel": "SAL|Women|weoss4sandals|ALL|NA"
+  },
+  {
+    "Placement": "wc2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/W_Cat_EOSS_20170707_Lipsticks.jpg",
+    "Exit Url": "/women/beauty/lipsticks/special-price",
+    "Headline": "Shop Lipsticks >",
+    "Subline": "Shop Lipsticks >",
+    "EventLabel": "SAL|Women|weoss4lipstick|ALL|NA"
+  },
+  {
+    "Placement": "wc3",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/W_Cat_EOSS_20170707_Playsuits_375x500.jpg",
+    "Exit Url": "/women/clothing/short-jumpsuits/special-price/",
+    "Headline": "Shop Playsuits >",
+    "Subline": "Shop Playsuits >",
+    "EventLabel": "SAL|Women|weoss4playsuit|ALL|NA"
+  },
+  {
+    "Placement": "wc4",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/W_Cat_EOSS_20170707_Clutches.jpg",
+    "Exit Url": "/women/bags/clutches/special-price/",
+    "Headline": "Shop Clutches >",
+    "Subline": "Shop Clutches >",
+    "EventLabel": "SAL|Women|weoss4clutches|ALL|NA"
+  },
+  {
+    "Placement": "wc5",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/W_Cat_EOSS_20170707_Sport_Perfomance.jpg",
+    "Exit Url": "/women/sports/sportscsf-performance-wear/special-price/",
+    "Headline": "Shop Sports Performance >",
+    "Subline": "Shop Sports Performance >",
+    "EventLabel": "SAL|Women|weoss4sportsperformance|ALL|NA"
+  },
+  {
+    "Placement": "msf1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
+  },
+  {
+    "Placement": "msl1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Skinny-left_buy-2.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_five=eoss-buy2get25off",
+    "Headline": "Buy 2, Get 25% off",
+    "Subline": "Take a break and enjoy this well-deserved style upgrade",
+    "EventLabel": "SAL|Men|meoss4rplbuy2get25off|ALL|NA"
+  },
+  {
+    "Placement": "msr1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Skinny-left_everythinat1000.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_two=eoss-last-size",
+    "Headline": "LAST SIZE CLEARANCE",
+    "Subline": "Limited pieces left - grab them before stocks run out!",
+    "EventLabel": "SAL|Men|meoss4lastchanceclearance|ALL|NA"
+  },
+  {
+    "Placement": "mh1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/M_Buy2_get_25off_RPL_996x500.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_five=eoss-buy2get25off",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL|Men|meoss4rplbuy2get25off|ALL|NA"
+  },
+  {
+    "Placement": "mn1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/M_EOSS_Tshirts_and_more_N1.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_three=eoss-tshirtsmore",
+    "Headline": "T-shirts & More - Up to 60% off",
+    "Subline": "Key pieces that should be in every man's wardrobe",
+    "EventLabel": "SAL-CAT|Men|meoss4rpltshirtsandmore|ALL|NA"
+  },
+  {
+    "Placement": "mn2",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/M_EverythingBelow1500-EOSS_N2_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "/men/special-price/?sort=popularity&price=300-1000",
+    "Headline": "Everything at P1,000 and Below",
+    "Subline": "Shop this season's trend at prices you love",
+    "EventLabel": "SAL|Men|meoss4everything1000|ALL|NA"
+  },
+  {
+    "Placement": "mfb1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/M_20170707_Dsk_322x165_onitsuka-tiger.jpg",
+    "Exit Url": "/men/onitsuka-tiger/?sort=discount",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL|Men|meoss4onitsukatiger|ALL|NA"
+  },
+  {
+    "Placement": "mfb2",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/M_20170707_Dsk_322x165_topman.jpg",
+    "Exit Url": "/men/topman/special-price/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL|Men|meoss4topman|ALL|NA"
+  },
+  {
+    "Placement": "mfb3",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/M_20170707_UnderArmour_B1-6_322x165.jpg",
+    "Exit Url": "/men/under-armour/special-price/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL|Men|meoss4underarmour|ALL|NA"
+  },
+  {
+    "Placement": "mfb4",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/M_20170707_Dsk_322x165_burton-m.jpg",
+    "Exit Url": "/men/burton-menswear-london/special-price/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL|Men|meoss4burtonmenswear|ALL|NA"
+  },
+  {
+    "Placement": "mfb5",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/M_20170707_Rayban_322x165.jpg",
+    "Exit Url": "/men/ray-ban/?sort=discount",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL|Men|meoss4rayban|ALL|NA"
+  },
+  {
+    "Placement": "mfb6",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/M_20170707_Hideo_Wakamatsu_322x165.jpg",
+    "Exit Url": "/men/hideo-wakamatsu/?sort=discount",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL|Men|meoss4hideowakamatsu|ALL|NA"
+  },
+  {
+    "Placement": "mc1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/M_Cat_20170707_Backpacks.jpg",
+    "Exit Url": "/men/bags/backpacks/special-price",
+    "Headline": "Shop Backpacks >",
+    "Subline": "Shop Backpacks >",
+    "EventLabel": "SAL|Men|meoss4backpacks|ALL|NA"
+  },
+  {
+    "Placement": "mc2",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/M_Cat_20170707_Formal_Shoes.jpg",
+    "Exit Url": "/men/shoes/formal-shoes/special-price/",
+    "Headline": "Shop Formal Shoes >",
+    "Subline": "Shop Formal Shoes >",
+    "EventLabel": "SAL|Men|meoss4formalshoes|ALL|NA"
+  },
+  {
+    "Placement": "mc3",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/M_Cat_20170707_Casual_Shirts.jpg",
+    "Exit Url": "/men/clothing/casual-shirts/special-price/",
+    "Headline": "Shop Casual Shirts >",
+    "Subline": "Shop Casual Shirts >",
+    "EventLabel": "SAL|Men|meoss4casualshirts|ALL|NA"
+  },
+  {
+    "Placement": "mc4",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/M_Cat_20170707_Digital_Watches.jpg",
+    "Exit Url": "/men/watches/digital-watches/special-price/",
+    "Headline": "Shop Digital Watches >",
+    "Subline": "Shop Digital Watches >",
+    "EventLabel": "SAL|Men|meoss4digitalwatches|ALL|NA"
+  },
+  {
+    "Placement": "mc5",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/M_Cat_20170707_Sports_Lifestyle.jpg",
+    "Exit Url": "/men/sports/sports-lifestyle/special-price",
+    "Headline": "Shop Sports Lifestyle >",
+    "Subline": "Shop Sports Lifestyle >",
+    "EventLabel": "SAL|Men|meoss4sportslifestyle|ALL|NA"
+  },
+  {
+    "Placement": "ws1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/W_Buy2_get_25off_RPL_700x200.gif",
+    "Exit Url": "/women/all-products/?cmpgn_five=eoss-buy2get25off",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL|Women|weoss4rplbuy2get25off|ALL|NA"
+  },
+  {
+    "Placement": "wh1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/W_Buy2_get_25off_RPL_600x600.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_five=eoss-buy2get25off",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL|Women|weoss4rplbuy2get25off|ALL|NA"
+  },
+  {
+    "Placement": "wn1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/W_EOSS_Last_Chance_Clearance_620x420.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_two=eoss-last-size",
+    "Headline": "LAST SIZE CLEARANCE",
+    "Subline": "Limited pieces left - grab them before stocks run out!",
+    "EventLabel": "SAL|Women|weoss4lastchanceclearance|ALL|NA"
+  },
+  {
+    "Placement": "wn2",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/W_Kfashion_upto60off_Eoss_620x420.jpg",
+    "Exit Url": "/women/k-fashion/special-price/",
+    "Headline": "KOREAN FASHION- Up to 60% off",
+    "Subline": "Upgrade your wardrobe and indulgence in the latest styles inspired by the streets of Seoul",
+    "EventLabel": "SAL-CAT|Women|weoss4kfashionupto60off|ALL|NA"
+  },
+  {
+    "Placement": "wc1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/W_Cat_EOSS_20170707_Sandals.jpg",
+    "Exit Url": "/women/shoes/sandals/special-price/",
+    "Headline": "Shop Sandals >",
+    "Subline": "Shop Sandals >",
+    "EventLabel": "SAL|Women|weoss4sandals|ALL|NA"
+  },
+  {
+    "Placement": "wc2",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/W_Cat_EOSS_20170707_Playsuits.jpg",
+    "Exit Url": "/women/clothing/short-jumpsuits/special-price/",
+    "Headline": "Shop Playsuits >",
+    "Subline": "Shop Playsuits >",
+    "EventLabel": "SAL|Women|weoss4playsuit|ALL|NA"
+  },
+  {
+    "Placement": "ms1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/M_Buy2_get_25off_RPL_700x200.gif",
+    "Exit Url": "/men/all-products/?cmpgn_five=eoss-buy2get25off",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL|Men|meoss4rplbuy2get25off|ALL|NA"
+  },
+  {
+    "Placement": "mh1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/M_Buy2_get_25off_RPL_600x600.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_five=eoss-buy2get25off",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL|Men|meoss4rplbuy2get25off|ALL|NA"
+  },
+  {
+    "Placement": "mn1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/M_EverythingBelow1500-EOSS_N2_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "/men/special-price/?sort=popularity&price=300-1000",
+    "Headline": "Everything at P1,000 and Below",
+    "Subline": "Shop this season's trend at prices you love",
+    "EventLabel": "SAL|Men|meoss4everything1000|ALL|NA"
+  },
+  {
+    "Placement": "mn2",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/M_EOSS_Tshirts_and_more_N2.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_three=eoss-tshirtsmore",
+    "Headline": "T-shirts & More - Up to 60% off",
+    "Subline": "Key pieces that should be in every man's wardrobe",
+    "EventLabel": "SAL-CAT|Men|meoss4rpltshirtsandmore|ALL|NA"
+  },
+  {
+    "Placement": "mc1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/M_Cat_20170707_Backpacks.jpg",
+    "Exit Url": "/men/bags/backpacks/special-price",
+    "Headline": "Shop Backpacks >",
+    "Subline": "Shop Backpacks >",
+    "EventLabel": "SAL|Men|meoss4backpacks|ALL|NA"
+  },
+  {
+    "Placement": "mc2",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/M_Cat_20170707_Formal_Shoes.jpg",
+    "Exit Url": "/men/shoes/formal-shoes/special-price/",
+    "Headline": "Shop Formal Shoes >",
+    "Subline": "Shop Formal Shoes >",
+    "EventLabel": "SAL|Men|meoss4formalshoes|ALL|NA"
+  },
+  {
+    "Placement": "uh1",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Homepage_Buy2_get_25off_RPL_996x500.jpg",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL|Unisex|homepageheroEOSSrplbundlebuy2get25|ALL|NA"
+  },
+  {
+    "Placement": "ub1",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/W_EOSS_Everything_Below_P1000_322x300.jpg",
+    "Exit Url": "/women/special-price/?sort=popularity&price=300-999",
+    "Headline": "End of Season Sale",
+    "Subline": "Everything Below P1000",
+    "EventLabel": "SAL|Unisex|eoss4everythingbelowP1000|ALL|NA"
+  },
+  {
+    "Placement": "ub2",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/EOSS_Last_clearance_sale_homepage-bottom-banner_322x300.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_two=eoss-last-size",
+    "Headline": "LAST SIZE CLEARANCE",
+    "Subline": "Limited pieces left - grab them before stocks run out!",
+    "EventLabel": "SAL|Unisex|eoss4lastchanceclearance|ALL|NA"
+  },
+  {
+    "Placement": "ub3",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/322x300_Sneakers_HP_eoss.jpg",
+    "Exit Url": "/men/shoes/sneakers/special-price/",
+    "Headline": "Sneakers - Up to 70% off",
+    "Subline": "Pairs to wear, wherever you're going",
+    "EventLabel": "SAL|Unisex|eoss4sneakersupto70off|ALL|NA"
+  }
+]
