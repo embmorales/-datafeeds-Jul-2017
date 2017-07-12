@@ -46,7 +46,7 @@
     "Image": "https://static-ph.zacdn.com/cms/DY/W_Kfashion_upto60off_Eoss_360x420.jpg",
     "Exit Url": "/women/k-fashion/special-price/",
     "Headline": "KOREAN FASHION- Up to 60% off",
-    "Subline": "Upgrade your wardrobe and indulgence in the latest styles inspired by the streets of Seoul",
+    "Subline": "Upgrade your wardrobe & indulge in the latest styles inspired by the streets of Seoul",
     "EventLabel": "SAL-CAT|Women|weoss4kfashionupto60off|ALL|NA"
   },
   {
@@ -123,11 +123,11 @@
     "Placement": "wfb3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/W_20170707_Jansport_322x165.jpg",
-    "Exit Url": "/women/bags/jansport/special-price",
+    "Image": "https://static-ph.zacdn.com/cms/DY/EOSS_CLN_322x165.jpg",
+    "Exit Url": "/women/cln/special-price",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Women|weoss4jansport|ALL|NA"
+    "EventLabel": "SAL|Women|weoss4cln|ALL|NA"
   },
   {
     "Placement": "wfb4",
@@ -153,11 +153,11 @@
     "Placement": "wfb6",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/W_20170707_Nuxe_322x165.jpg",
-    "Exit Url": "/women/nuxe/special-price",
+    "Image": "https://static-ph.zacdn.com/cms/DY/EOSS_Make_Up_Factory_322x165.jpg",
+    "Exit Url": "/women/make-up-factory/special-price",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Women|weoss4nuxe|ALL|NA"
+    "EventLabel": "SAL|Women|weoss4makeupfactory|ALL|NA"
   },
   {
     "Placement": "wc1",
