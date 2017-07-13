@@ -43,21 +43,21 @@
     "Placement": "wn1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/ZAP_Nike_Sports_Bra_2_Nike_N2_360x420.jpg",
+    "Image": "https://static-ph.zacdn.com/cms/DY/W_Kfashion_upto60off_Eoss_360x420.jpg",
     "Exit Url": "/women/clothing/all-products/nike/?getSKU=NI126US05LLYPH--NI126US25DDUPH--NI126US70AZHPH--NI126US84XOHPH--NI126US87CZOPH--NI126US62PRPPH--NI126US36NDBPH--NI126US99CZCPH--NI126US29CVMPH--NI126US01CZAPH",
-    "Headline": "Nike Indy Logo Bras",
-    "Subline": "Soft and lightweight for limitless movement",
-    "EventLabel": "SAL-BRA|Women|weoss4nike|ALL|ZAP"
+    "Headline": "CLN K-POP EXCLUSIVES",
+    "Subline": "From everyday essentials to statement pieces, the latest collection of CLN offers the best of Korean fashion",
+    "EventLabel": "SAL|Women|weoss4kfashionexclusive|ALL|NA"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/W_EOSS_Last_Chance_Clearance_620x420.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_two=eoss-last-size",
-    "Headline": "LAST SIZE CLEARANCE",
-    "Subline": "Limited pieces left - grab them before stocks run out!",
-    "EventLabel": "SAL|Women|weoss4lastchanceclearance|ALL|NA"
+    "Image": "https://static-ph.zacdn.com/cms/DY/ZAP_Nike_Sports_Bra_N2_620x420.jpg",
+    "Exit Url": "/women/clothing/all-products/nike/?getSKU=NI126US05LLYPH--NI126US25DDUPH--NI126US70AZHPH--NI126US84XOHPH--NI126US87CZOPH--NI126US62PRPPH--NI126US36NDBPH--NI126US99CZCPH--NI126US29CVMPH--NI126US01CZAPH",
+    "Headline": "Nike Indy Logo Bras",
+    "Subline": "Soft and lightweight for limitless movement",
+    "EventLabel": "SAL-BRA|Women|weoss4nike|ALL|ZAP"
   },
   {
     "Placement": "wcu1",
@@ -403,21 +403,21 @@
     "Placement": "wn1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-ph.zacdn.com/cms/DY/W_EOSS_Last_Chance_Clearance_620x420.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_two=eoss-last-size",
-    "Headline": "LAST SIZE CLEARANCE",
-    "Subline": "Limited pieces left - grab them before stocks run out!",
-    "EventLabel": "SAL|Women|weoss4lastchanceclearance|ALL|NA"
-  },
-  {
-    "Placement": "wn2",
-    "Gender": "women",
-    "Device": "mobile",
     "Image": "https://static-ph.zacdn.com/cms/DY/ZAP_Nike_Sports_Bra_N2_620x420.jpg",
     "Exit Url": "/women/clothing/all-products/nike/?getSKU=NI126US05LLYPH--NI126US25DDUPH--NI126US70AZHPH--NI126US84XOHPH--NI126US87CZOPH--NI126US62PRPPH--NI126US36NDBPH--NI126US99CZCPH--NI126US29CVMPH--NI126US01CZAPH",
     "Headline": "Nike Indy Logo Bras",
     "Subline": "Soft and lightweight for limitless movement",
     "EventLabel": "SAL-BRA|Women|weoss4nike|ALL|ZAP"
+  },
+  {
+    "Placement": "wn2",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/W_Kfashion_upto60off_Eoss_620x420.jpg",
+    "Exit Url": "/women/clothing/all-products/nike/?getSKU=NI126US05LLYPH--NI126US25DDUPH--NI126US70AZHPH--NI126US84XOHPH--NI126US87CZOPH--NI126US62PRPPH--NI126US36NDBPH--NI126US99CZCPH--NI126US29CVMPH--NI126US01CZAPH",
+    "Headline": "CLN K-POP EXCLUSIVES",
+    "Subline": "From everyday essentials to statement pieces, the latest collection of CLN offers the best of Korean fashion",
+    "EventLabel": "SAL|Women|weoss4kfashionexclusive|ALL|NA"
   },
   {
     "Placement": "wc1",
@@ -473,7 +473,7 @@
     "Placement": "mn2",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-ph.zacdn.com/cms/DY/EOSS_M_Last_Chance_N2_NEWARRIVALS_620x420.jpg",
+    "Image": "https://static-ph.zacdn.com/cms/DY/EOSS_M_Last_Chance_N1_NEWARRIVALS_320x420.jpg",
     "Exit Url": "/men/all-products/?cmpgn_two=eoss-last-size",
     "Headline": "LAST SIZE CLEARANCE",
     "Subline": "Limited pieces left - grab them before stocks run out!",
