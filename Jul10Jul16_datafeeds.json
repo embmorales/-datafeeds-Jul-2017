@@ -43,11 +43,11 @@
     "Placement": "wn1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/W_Kfashion_upto60off_Eoss_360x420.jpg",
-    "Exit Url": "/women/k-fashion/special-price/",
-    "Headline": "KOREAN FASHION- Up to 60% off",
-    "Subline": "Upgrade your wardrobe & indulge in the latest styles inspired by the streets of Seoul",
-    "EventLabel": "SAL-CAT|Women|weoss4kfashionupto60off|ALL|NA"
+    "Image": "https://static-ph.zacdn.com/cms/DY/ZAP_Nike_Sports_Bra_Nike_N2_320x420.jpg",
+    "Exit Url": "/women/clothing/all-products/nike/?getSKU=NI126US05LLYPH--NI126US25DDUPH--NI126US70AZHPH--NI126US84XOHPH--NI126US87CZOPH--NI126US62PRPPH--NI126US36NDBPH--NI126US99CZCPH--NI126US29CVMPH--NI126US01CZAPH",
+    "Headline": "Nike Indy Logo Bras",
+    "Subline": "Soft and lightweight for limitless movement",
+    "EventLabel": "SAL-BRA|Women|weoss4nike|ALL|ZAP"
   },
   {
     "Placement": "wn2",
@@ -253,11 +253,11 @@
     "Placement": "mn1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/M_EOSS_Tshirts_and_more_N1.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_three=eoss-tshirtsmore",
-    "Headline": "T-shirts & More - Up to 60% off",
-    "Subline": "Key pieces that should be in every man's wardrobe",
-    "EventLabel": "SAL-CAT|Men|meoss4rpltshirtsandmore|ALL|NA"
+    "Image": "https://static-ph.zacdn.com/cms/DY/EOSS_M_Last_Chance_N1_NEWARRIVALS_320x420.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_two=eoss-last-size",
+    "Headline": "LAST SIZE CLEARANCE",
+    "Subline": "Limited pieces left - grab them before stocks run out!",
+    "EventLabel": "SAL-CAT|Men|meoss4lastsizeclearance|ALL|NA"
   },
   {
     "Placement": "mn2",
@@ -413,11 +413,11 @@
     "Placement": "wn2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-ph.zacdn.com/cms/DY/W_Kfashion_upto60off_Eoss_620x420.jpg",
-    "Exit Url": "/women/k-fashion/special-price/",
-    "Headline": "KOREAN FASHION- Up to 60% off",
-    "Subline": "Upgrade your wardrobe and indulgence in the latest styles inspired by the streets of Seoul",
-    "EventLabel": "SAL-CAT|Women|weoss4kfashionupto60off|ALL|NA"
+    "Image": "https://static-ph.zacdn.com/cms/DY/ZAP_Nike_Sports_Bra_N2_620x420.jpg",
+    "Exit Url": "/women/clothing/all-products/nike/?getSKU=NI126US05LLYPH--NI126US25DDUPH--NI126US70AZHPH--NI126US84XOHPH--NI126US87CZOPH--NI126US62PRPPH--NI126US36NDBPH--NI126US99CZCPH--NI126US29CVMPH--NI126US01CZAPH",
+    "Headline": "Nike Indy Logo Bras",
+    "Subline": "Soft and lightweight for limitless movement",
+    "EventLabel": "SAL-BRA|Women|weoss4nike|ALL|ZAP"
   },
   {
     "Placement": "wc1",
@@ -473,11 +473,11 @@
     "Placement": "mn2",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-ph.zacdn.com/cms/DY/M_EOSS_Tshirts_and_more_N2.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_three=eoss-tshirtsmore",
-    "Headline": "T-shirts & More - Up to 60% off",
-    "Subline": "Key pieces that should be in every man's wardrobe",
-    "EventLabel": "SAL-CAT|Men|meoss4rpltshirtsandmore|ALL|NA"
+    "Image": "https://static-ph.zacdn.com/cms/DY/EOSS_M_Last_Chance_N2_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_two=eoss-last-size",
+    "Headline": "LAST SIZE CLEARANCE",
+    "Subline": "Limited pieces left - grab them before stocks run out!",
+    "EventLabel": "SAL-CAT|Men|meoss4lastsizeclearance|ALL|NA"
   },
   {
     "Placement": "mc1",
