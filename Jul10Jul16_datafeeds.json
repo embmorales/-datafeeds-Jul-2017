@@ -24,20 +24,20 @@
     "Gender": "women",
     "Device": "desktop",
     "Image": "https://static-ph.zacdn.com/cms/DY/Skinny-left_everythinat1000.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_two=eoss-last-size",
-    "Headline": "LAST SIZE CLEARANCE",
-    "Subline": "Limited pieces left - grab them before stocks run out!",
-    "EventLabel": "SAL|Women|weoss4lastchanceclearance|ALL|NA"
+    "Exit Url": "/women/all-products/?vc=ENJOY20",
+    "Headline": "Up to 80% Off + 20% off Use Code: Enjoy20",
+    "Subline": "Ends July 17, 2017<br> Min. spend P2000<br>Valid on sale and new arrivals. Brand exclusions apply.",
+    "EventLabel": "SAL|Women|weosspaydayrewardyourselfget20off|ALL|NA"
   },
   {
     "Placement": "wh1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/W_Buy2_get_25off_RPL_996x500.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_five=eoss-buy2get25off",
+    "Image": "https://static-ph.zacdn.com/cms/DY/W_payday_reward_yourself_vc_996x500.jpg",
+    "Exit Url": "/women/all-products/?vc=ENJOY20",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Women|weoss4rplbuy2get25off|ALL|NA"
+    "EventLabel": "SAL|Women|weosspaydayrewardyourselfget20off|ALL|NA"
   },
   {
     "Placement": "wn1",
@@ -234,20 +234,20 @@
     "Gender": "men",
     "Device": "desktop",
     "Image": "https://static-ph.zacdn.com/cms/DY/Skinny-left_everythinat1000.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_two=eoss-last-size",
-    "Headline": "LAST SIZE CLEARANCE",
-    "Subline": "Limited pieces left - grab them before stocks run out!",
-    "EventLabel": "SAL|Men|meoss4lastchanceclearance|ALL|NA"
+    "Exit Url": "/men/all-products/?vc=ENJOY20",
+    "Headline": "Up to 80% Off + 20% off Use Code: Enjoy20",
+    "Subline": "Ends July 17, 2017<br> Min. spend P2000<br>Valid on sale and new arrivals. Brand exclusions apply.",
+    "EventLabel": "SAL|Men|meosspaydayrewardyourselfget20off|ALL|NA"
   },
   {
     "Placement": "mh1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/M_Buy2_get_25off_RPL_996x500.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_five=eoss-buy2get25off",
+    "Image": "https://static-ph.zacdn.com/cms/DY/M_payday_reward_yourself_vc_996x500.jpg",
+    "Exit Url": "/men/all-products/?vc=ENJOY20",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Men|meoss4rplbuy2get25off|ALL|NA"
+    "EventLabel": "SAL|Men|meosspaydayrewardyourselfget20off|ALL|NA"
   },
   {
     "Placement": "mn1",
@@ -393,11 +393,11 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-ph.zacdn.com/cms/DY/W_Buy2_get_25off_RPL_600x600.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_five=eoss-buy2get25off",
+    "Image": "https://static-ph.zacdn.com/cms/DY/W_payday_reward_yourself_vc_600x600.jpg",
+    "Exit Url": "/women/all-products/?vc=ENJOY20",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Women|weoss4rplbuy2get25off|ALL|NA"
+    "EventLabel": "SAL|Women|weosspaydayrewardyourselfget20off|ALL|NA"
   },
   {
     "Placement": "wn1",
@@ -453,11 +453,11 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-ph.zacdn.com/cms/DY/M_Buy2_get_25off_RPL_600x600.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_five=eoss-buy2get25off",
+    "Image": "https://static-ph.zacdn.com/cms/DY/M_payday_reward_yourself_vc_600x600.jpg",
+    "Exit Url": "/men/all-products/?vc=ENJOY20",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Men|meoss4rplbuy2get25off|ALL|NA"
+    "EventLabel": "SAL|Men|meosspaydayrewardyourselfget20off|ALL|NA"
   },
   {
     "Placement": "mn1",
