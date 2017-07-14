@@ -153,11 +153,11 @@
     "Placement": "wfb6",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/EOSS_Make_Up_Factory_322x165.jpg",
-    "Exit Url": "/women/make-up-factory/special-price",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Sale_Dsk_322x165_f-f_women.jpg",
+    "Exit Url": "/women/f-f/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Women|weoss4makeupfactory|ALL|NA"
+    "EventLabel": "SAL|Women|weoss4ff|ALL|NA"
   },
   {
     "Placement": "wc1",
@@ -303,11 +303,11 @@
     "Placement": "mfb4",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/M_20170707_Dsk_322x165_burton-m.jpg",
-    "Exit Url": "/men/burton-menswear-london/special-price/",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Sale_Dsk_322x165_f-f_men.jpg",
+    "Exit Url": "/men/f-f/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Men|meoss4burtonmenswear|ALL|NA"
+    "EventLabel": "SAL|Men|meoss4ff|ALL|NA"
   },
   {
     "Placement": "mfb5",
@@ -323,11 +323,11 @@
     "Placement": "mfb6",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/M_20170707_Hideo_Wakamatsu_322x165.jpg",
-    "Exit Url": "/men/hideo-wakamatsu/?sort=discount",
+    "Image": "https://static-ph.zacdn.com/cms/DY/EOSS_Dsk_322x165_rockport.jpg",
+    "Exit Url": "/men/rockport/?sort=discount",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Men|meoss4hideowakamatsu|ALL|NA"
+    "EventLabel": "SAL|Men|meoss4rockport|ALL|NA"
   },
   {
     "Placement": "mc1",
