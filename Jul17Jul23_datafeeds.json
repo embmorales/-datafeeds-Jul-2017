@@ -533,10 +533,10 @@
     "Placement": "ub3",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/322x300_Sneakers_HP_eoss.jpg",
-    "Exit Url": "/men/shoes/sneakers/special-price/",
-    "Headline": "Sneakers - Up to 70% off",
-    "Subline": "Pairs to wear, wherever you're going",
-    "EventLabel": "SAL|Unisex|eoss4sneakersupto70off|ALL|NA"
+    "Image": "https://static-ph.zacdn.com/cms/DY/HP_RpL_Buy3Get30_322x300.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_four=eoss-buy3get30off",
+    "Headline": "Buy 3 Get 30% Off",
+    "Subline": "Back by popular demand - make your purchase now",
+    "EventLabel": "SAL|Men|meoss5buy3get30off|ALL|NA"
   }
 ]
