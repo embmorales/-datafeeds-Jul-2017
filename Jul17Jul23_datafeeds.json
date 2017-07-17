@@ -1,0 +1,542 @@
+[
+  {
+    "Placement": "wsf1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
+  },
+  {
+    "Placement": "wsl1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170713_W_Omnibus_UpTo80off_skinny_495x25.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_three=eoss80",
+    "Headline": "Sale Up To 80% Off",
+    "Subline": "Shop Now >",
+    "EventLabel": "SAL|Women|weoss5omnibusupto80off|ALL|NA"
+  },
+  {
+    "Placement": "wsr1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170713_W_Omnibus_UpTo80off_right_skinny_495x25.jpg",
+    "Exit Url": "/women/esprit/special-price",
+    "Headline": "ESPRIT - FINAL SALE UP TO 70% OFF",
+    "Subline": "Last chance, so don't hold back!",
+    "EventLabel": "SAL|Women|weoss5espritupto70off|ALL|ZAP"
+  },
+  {
+    "Placement": "wh1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170713_W_Omnibus_UpTo80off_hero-banner_996x500.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_three=eoss80",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL|Women|weoss5omnibusupto80off|ALL|NA"
+  },
+  {
+    "Placement": "wn1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
+  },
+  {
+    "Placement": "wn2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
+  },
+  {
+    "Placement": "wcu1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/CLN_Kpop_Exclusive_620x420.jpg",
+    "Exit Url": "/women/cln/new-products/",
+    "Headline": "CLN K-POP EXCLUSIVES",
+    "Subline": "From everyday essentials to statement pieces, the latest collection of CLN offers the best of Korean fashion",
+    "EventLabel": "SAL|Women|weoss5clnkpopexclusive|ALL|NA"
+  },
+  {
+    "Placement": "wcu2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/ZAP_Esprit_EOSS_N1_NEWARRIVALS_360x420.jpg",
+    "Exit Url": "/women/esprit/special-price",
+    "Headline": "ESPRIT - FINAL SALE UP TO 70% OFF",
+    "Subline": "Last chance, so don't hold back!",
+    "EventLabel": "SAL|Women|weoss5espritupto70off|ALL|ZAP"
+  },
+  {
+    "Placement": "wcu3",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Flossy_Hello_Kitty_360x420.jpg",
+    "Exit Url": "/women/flossy/?sort=latest%20arrival",
+    "Headline": "FLOSSY x HELLO KITTY",
+    "Subline": "With styles ranging from artsy, classic, edgy, playful & romantic, we've got the pair for you",
+    "EventLabel": "TRE|Women|weoss5flossyhellokitty|ALL|NA"
+  },
+  {
+    "Placement": "wcu4",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Highstreet_Brands_for_Less_N2_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "/women/special-price/?sort=popularity&dir=desc&page=8&gender=women&enable_visual_sort=1&category_id=&brand=adidas--aeropostale--aerosoles--anello--calvin-klein--cotton-on--dorothy-perkins--esprit--karl-lagerfeld--love-moschino--mango--missguided--nike--puma--river-island--rubi--topshop--unarosa--veromoda--wrangler",
+    "Headline": "HIGH STREET FASHION SALE",
+    "Subline": "Get the lowdown on your favorite brands, now up to 60% off",
+    "EventLabel": "SAL|Women|weoss5highstreetbrands|ALL|NA"
+  },
+  {
+    "Placement": "wfb1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170714_FB_W_Dorothy_Perkins.jpg",
+    "Exit Url": "/women/dorothy-perkins/special-price",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL|Women|weoss5dorothyperkins|ALL|NA"
+  },
+  {
+    "Placement": "wfb2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170714_FB_W_NAIN.jpg",
+    "Exit Url": "/women/nain/special-price",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL|Women|weoss5nain|ALL|NA"
+  },
+  {
+    "Placement": "wfb3",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170616_FB_Dsk_322x165_w_adidas.jpg",
+    "Exit Url": "/women/sports/adidas/special-price/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL|Women|weoss5adidas|ALL|NA"
+  },
+  {
+    "Placement": "wfb4",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170714_FB_W_Anello_322x165.png",
+    "Exit Url": "/women/anello/?sort=discount",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL|Women|weoss5anello|ALL|NA"
+  },
+  {
+    "Placement": "wfb5",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170714_FB_W_river-island_322x165.jpg",
+    "Exit Url": "/women/accessories/special-price/river-island/?sort=popularity&dir=desc&gender=women&enable_visual_sort=1&category_id=80&brand=river-island",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL|Women|weoss5riverisland|ALL|NA"
+  },
+  {
+    "Placement": "wfb6",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170714_FB_W_Burts_Bees.jpg",
+    "Exit Url": "/women/accessories/special-price/river-island/?sort=popularity&dir=desc&gender=women&enable_visual_sort=1&category_id=80&brand=river-island",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL|Women|weoss5burtsbees|ALL|NA"
+  },
+  {
+    "Placement": "wc1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170714_W_Cat_Flats_300x198.jpg",
+    "Exit Url": "/women/shoes/flats/special-price/?getSKU=AD960SH35AUEPH",
+    "Headline": "Shop Flats >",
+    "Subline": "Shop Flats >",
+    "EventLabel": "SAL|Women|weoss5flats|ALL|NA"
+  },
+  {
+    "Placement": "wc2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170714_W_Cat_Pants_300x198.jpg",
+    "Exit Url": "/women/clothing/pants/special-price/?getSKU=KL492AA63VAUMY",
+    "Headline": "Shop Pants >",
+    "Subline": "Shop Pants >",
+    "EventLabel": "SAL|Women|weoss5pants|ALL|NA"
+  },
+  {
+    "Placement": "wc3",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170714_W_Cat_Cardigans_375x500.jpg",
+    "Exit Url": "/women/clothing/cardigans-knitwear/special-price/?getSKU=JU359AA01QLEMY",
+    "Headline": "Shop Knitwear >",
+    "Subline": "Shop Knitwear >",
+    "EventLabel": "SAL|Women|weoss5knitwear|ALL|NA"
+  },
+  {
+    "Placement": "wc4",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170714_W_Cat_SportsSneakers_300x198.jpg",
+    "Exit Url": "/women/sports/sports-footwear/special-price/",
+    "Headline": "Shop Sports Shoes >",
+    "Subline": "Shop Sports Shoes >",
+    "EventLabel": "SAL|Women|weoss5sportshoes|ALL|NA"
+  },
+  {
+    "Placement": "wc5",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170714_W_Cat_SlingBags_300x198.jpg",
+    "Exit Url": "/women/bags/shoulder-bags/special-price/?getSKU=82962ACE229DF1GS",
+    "Headline": "Shop Sling Bags >",
+    "Subline": "Shop Sling Bags >",
+    "EventLabel": "SAL|Women|weoss5slingbags|ALL|NA"
+  },
+  {
+    "Placement": "msf1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
+  },
+  {
+    "Placement": "msl1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170713_W_Omnibus_UpTo80off_skinny_495x25.jpg",
+    "Exit Url": "/men/special-price/?discount=50-50",
+    "Headline": "Everything at 50% Off",
+    "Subline": "Take a break and enjoy this well-deserved style upgrade",
+    "EventLabel": "SAL|Women|weoss5everythingat50off|ALL|NA"
+  },
+  {
+    "Placement": "msr1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170713_W_Omnibus_UpTo80off_right_skinny_495x25.jpg",
+    "Exit Url": "/men/esprit/special-price/",
+    "Headline": "ESPRIT - FINAL SALE UP TO 70% OFF",
+    "Subline": "Last chance, so don't hold back!",
+    "EventLabel": "SAL|Women|weoss5esprit|ALL|ZAP"
+  },
+  {
+    "Placement": "mh1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/M_RPL_Buy3get30off_996x500.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_four=eoss-buy3get30off",
+    "Headline": "Buy 3 Get 30% Off",
+    "Subline": "Back by popular demand - make your purchase now",
+    "EventLabel": "SAL|Men|meoss5buy3get30off|ALL|NA"
+  },
+  {
+    "Placement": "mn1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/M_ZAP_Esprit_N1_NEWARRIVALS_360x420.jpg",
+    "Exit Url": "/men/esprit/special-price/",
+    "Headline": "ESPRIT - FINAL SALE UP TO 70% OFF",
+    "Subline": "Last chance, so don't hold back!",
+    "EventLabel": "SAL|Women|weoss5esprit|ALL|ZAP"
+  },
+  {
+    "Placement": "mn2",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/EOSS_Everything_at_50off_N2_620x420.jpg",
+    "Exit Url": "/men/special-price/?discount=50-50",
+    "Headline": "Everything at 50% Off",
+    "Subline": "Take a break and enjoy this well-deserved style upgrade",
+    "EventLabel": "SAL|Women|weoss5everythingat50off|ALL|NA"
+  },
+  {
+    "Placement": "mfb1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170714_Dsk_322x165_m_adidas.jpg",
+    "Exit Url": "/men/special-price/adidas/",
+    "Headline": "adidas",
+    "Subline": "",
+    "EventLabel": "SAL|Women|eoss5adidas|ALL|NA"
+  },
+  {
+    "Placement": "mfb2",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170714_Dsk_322x165_jaxon.jpg",
+    "Exit Url": "/men/special-price/jaxon/",
+    "Headline": "jaxon",
+    "Subline": "",
+    "EventLabel": "SAL|Women|eoss5jaxon|ALL|NA"
+  },
+  {
+    "Placement": "mfb3",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170714_Dsk_322x165_birkenstock.jpg",
+    "Exit Url": "/men/special-price/birkenstock/",
+    "Headline": "birkenstock",
+    "Subline": "",
+    "EventLabel": "SAL|Women|eoss5birkenstock|ALL|NA"
+  },
+  {
+    "Placement": "mfb4",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170714_invicta-featuredbrand.jpg",
+    "Exit Url": "/men/special-price/invicta/",
+    "Headline": "Invicta",
+    "Subline": "",
+    "EventLabel": "SAL|Women|eoss5invicta|ALL|NA"
+  },
+  {
+    "Placement": "mfb5",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170714_Dsk_322x165_bavin.jpg",
+    "Exit Url": "/men/special-price/bavin/",
+    "Headline": "Bavin",
+    "Subline": "",
+    "EventLabel": "SAL|Women|eoss5bavin|ALL|NA"
+  },
+  {
+    "Placement": "mfb6",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170714_Dsk_322x165_new-balance.jpg",
+    "Exit Url": "/men/special-price/new-balance/",
+    "Headline": "New Balance",
+    "Subline": "",
+    "EventLabel": "SAL|Women|eoss5newbalance|ALL|NA"
+  },
+  {
+    "Placement": "mc1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170713_M_Pants_300x198.jpg",
+    "Exit Url": "/men/clothing/pants/special-price/?getSKU=7326FAA71BC6F0GS",
+    "Headline": "Shop Pants >",
+    "Subline": "Shop Pants >",
+    "EventLabel": "SAL|Women|weoss5pants|ALL|NA"
+  },
+  {
+    "Placement": "mc2",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170713_M_FormalShots_300x198.jpg",
+    "Exit Url": "/men/shoes/formal-shoes/special-price/?getSKU=E9C0BAAD64A48EGS",
+    "Headline": "Shop Formal Shoes >",
+    "Subline": "Shop Formal Shoes >",
+    "EventLabel": "SAL|Women|weoss5formalshoes|ALL|NA"
+  },
+  {
+    "Placement": "mc3",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170713_M_Polo_375x500.jpg",
+    "Exit Url": "/men/clothing/polo-shirts/special-price/?getSKU=RE284AA01LYSPH",
+    "Headline": "Shop Polo shirts >",
+    "Subline": "Shop Polo shirts >",
+    "EventLabel": "SAL|Women|weoss5poloshirts|ALL|NA"
+  },
+  {
+    "Placement": "mc4",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170713_M_TravelBags_300x198.jpg",
+    "Exit Url": "/men/bags/travel-bags/special-price/?getSKU=SU137AC78HWVMY",
+    "Headline": "Shop Travel Bags >",
+    "Subline": "Shop Travel Bags >",
+    "EventLabel": "SAL|Women|weoss5travelbags|ALL|NA"
+  },
+  {
+    "Placement": "mc5",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170713_M_Watches_300x198.jpg",
+    "Exit Url": "/men/watches/analog-watches/special-price/?getSKU=IN930AC00XOTPH",
+    "Headline": "Shop Analog Watches >",
+    "Subline": "Shop Analog Watches >",
+    "EventLabel": "SAL|Women|weoss5analogwatches|ALL|NA"
+  },
+  {
+    "Placement": "ws1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/eoss_omnibus_upto80off_mobileweb_skinny_700x200.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_three=eoss80",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL|Women|weoss5omnibusupto80off|ALL|NA"
+  },
+  {
+    "Placement": "wh1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170713_W_Omnibus_UpTo80off_MOBILEWEB_HERO_600x600.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_three=eoss80",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL|Women|weoss5omnibusupto80off|ALL|NA"
+  },
+  {
+    "Placement": "wn1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/CLN_Kpop_Exclusive_620x420.jpg",
+    "Exit Url": "/women/cln/new-products/",
+    "Headline": "CLN K-POP EXCLUSIVES",
+    "Subline": "From everyday essentials to statement pieces, the latest collection of CLN offers the best of Korean fashion",
+    "EventLabel": "SAL|Women|weoss5clnkpopexclusive|ALL|NA"
+  },
+  {
+    "Placement": "wn2",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/ZAP_Esprit_EOSS_N2_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "/women/esprit/special-price",
+    "Headline": "ESPRIT - FINAL SALE UP TO 70% OFF",
+    "Subline": "Last chance, so don't hold back!",
+    "EventLabel": "SAL|Women|weoss5espritupto70off|ALL|ZAP"
+  },
+  {
+    "Placement": "wc1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170714_W_Cat_Flats_300x198.jpg",
+    "Exit Url": "/women/shoes/flats/special-price/?getSKU=AD960SH35AUEPH",
+    "Headline": "Shop Flats >",
+    "Subline": "Shop Flats >",
+    "EventLabel": "SAL|Women|weoss5flats|ALL|NA"
+  },
+  {
+    "Placement": "wc2",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170714_W_Cat_Pants_300x198.jpg",
+    "Exit Url": "/women/clothing/pants/special-price/?getSKU=KL492AA63VAUMY",
+    "Headline": "Shop Pants >",
+    "Subline": "Shop Pants >",
+    "EventLabel": "SAL|Women|weoss5pants|ALL|NA"
+  },
+  {
+    "Placement": "ms1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "NA",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
+  },
+  {
+    "Placement": "mh1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/M_RPL_Buy3get30off_600x600.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_four=eoss-buy3get30off",
+    "Headline": "Buy 3 Get 30% Off",
+    "Subline": "Back by popular demand - make your purchase now",
+    "EventLabel": "SAL|Men|meoss5buy3get30off|ALL|NA"
+  },
+  {
+    "Placement": "mn1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/EOSS_Everything_at_50off_N2_620x420.jpg",
+    "Exit Url": "/men/special-price/?discount=50-50",
+    "Headline": "Everything at 50% Off",
+    "Subline": "Take a break and enjoy this well-deserved style upgrade",
+    "EventLabel": "SAL|Women|weosseverythingat50off|ALL|NA"
+  },
+  {
+    "Placement": "mn2",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/M_ZAP_Esprit_N2_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "/men/esprit/special-price/",
+    "Headline": "ESPRIT - FINAL SALE UP TO 70% OFF",
+    "Subline": "Last chance, so don't hold back!",
+    "EventLabel": "SAL|Women|weoss5esprit|ALL|ZAP"
+  },
+  {
+    "Placement": "mc1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170713_M_Pants_300x198.jpg",
+    "Exit Url": "/men/clothing/pants/special-price/?getSKU=7326FAA71BC6F0GS",
+    "Headline": "Shop Pants >",
+    "Subline": "Shop Pants >",
+    "EventLabel": "SAL|Women|weoss5pants|ALL|NA"
+  },
+  {
+    "Placement": "mc2",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170713_M_FormalShots_300x198.jpg",
+    "Exit Url": "/men/shoes/formal-shoes/special-price/?getSKU=E9C0BAAD64A48EGS",
+    "Headline": "Shop Formal Shoes >",
+    "Subline": "Shop Formal Shoes >",
+    "EventLabel": "SAL|Women|weoss5formalshoes|ALL|NA"
+  },
+  {
+    "Placement": "uh1",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170713_Omnibus_UpTo80off_homepage-main_996x500.jpg",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL|Unisex|homepageheroeoss5upto80off|ALL|NA"
+  },
+  {
+    "Placement": "ub1",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Highstreet_Brands_for_Less_N2_NEWARRIVALS_322x300.jpg",
+    "Exit Url": "/women/special-price/?sort=popularity&dir=desc&page=8&gender=women&enable_visual_sort=1&category_id=&brand=adidas--aeropostale--aerosoles--anello--calvin-klein--cotton-on--dorothy-perkins--esprit--karl-lagerfeld--love-moschino--mango--missguided--nike--puma--river-island--rubi--topshop--unarosa--veromoda--wrangler",
+    "Headline": "HIGH STREET FASHION SALE",
+    "Subline": "Get the lowdown on your favorite brands, now up to 60% off",
+    "EventLabel": "SAL|Women|weoss5highstreetbrands|ALL|NA"
+  },
+  {
+    "Placement": "ub2",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/HP_322x300_SportsClearance.jpg",
+    "Exit Url": "/all-products/?cmpgn_one=eoss-sportsclearance",
+    "Headline": "Sports Brands Up to 60% Off",
+    "Subline": "Redefine your limits with adidas, Reebok, Onitsuka Tiger & more",
+    "EventLabel": "SAL-CAT|Women|weoss5sportsclearance|ALL|NA"
+  },
+  {
+    "Placement": "ub3",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/HP_RpL_Buy3Get30_322x300.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_four=eoss-buy3get30off",
+    "Headline": "Buy 3 Get 30% Off",
+    "Subline": "Back by popular demand - make your purchase now",
+    "EventLabel": "SAL|Men|meoss5buy3get30off|ALL|NA"
+  }
+]
