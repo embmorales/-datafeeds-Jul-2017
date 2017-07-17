@@ -14,20 +14,20 @@
     "Gender": "women",
     "Device": "desktop",
     "Image": "https://static-ph.zacdn.com/cms/DY/Skinny-left_buy-2.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_five=eoss-buy2get25off",
-    "Headline": "Buy 2, Get 25% off",
-    "Subline": "Take a break and enjoy this well-deserved style upgrade",
-    "EventLabel": "SAL|Women|weoss4rplbuy2get25off|ALL|NA"
+    "Exit Url": "/women/all-products/?vc=ENJOY20",
+    "Headline": "Up to 80% Off + 20% off Use Code: Enjoy20",
+    "Subline": "Ends July 17, 2017<br> Min. spend P2000<br>Valid on sale and new arrivals. Brand exclusions apply.",
+    "EventLabel": "SAL|Women|weosspaydayrewardyourselfget20off|ALL|NA"
   },
   {
     "Placement": "wsr1",
     "Gender": "women",
     "Device": "desktop",
     "Image": "https://static-ph.zacdn.com/cms/DY/Skinny-left_everythinat1000.jpg",
-    "Exit Url": "/women/all-products/?vc=ENJOY20",
-    "Headline": "Up to 80% Off + 20% off Use Code: Enjoy20",
-    "Subline": "Ends July 17, 2017<br> Min. spend P2000<br>Valid on sale and new arrivals. Brand exclusions apply.",
-    "EventLabel": "SAL|Women|weosspaydayrewardyourselfget20off|ALL|NA"
+    "Exit Url": "/women/all-products/?cmpgn_five=eoss-buy2get25off",
+    "Headline": "Buy 2, Get 25% off",
+    "Subline": "Take a break and enjoy this well-deserved style upgrade",
+    "EventLabel": "SAL|Women|weoss4rplbuy2get25off|ALL|NA"
   },
   {
     "Placement": "wh1",
@@ -44,10 +44,10 @@
     "Gender": "women",
     "Device": "desktop",
     "Image": "https://static-ph.zacdn.com/cms/DY/W_Kfashion_upto60off_Eoss_360x420.jpg",
-    "Exit Url": "/women/clothing/all-products/nike/?getSKU=NI126US05LLYPH--NI126US25DDUPH--NI126US70AZHPH--NI126US84XOHPH--NI126US87CZOPH--NI126US62PRPPH--NI126US36NDBPH--NI126US99CZCPH--NI126US29CVMPH--NI126US01CZAPH",
-    "Headline": "CLN K-POP EXCLUSIVES",
-    "Subline": "From everyday essentials to statement pieces, the latest collection of CLN offers the best of Korean fashion",
-    "EventLabel": "SAL|Women|weoss4kfashionexclusive|ALL|NA"
+    "Exit Url": "/women/k-fashion/special-price/",
+    "Headline": "KOREAN FASHION- Up to 60% off",
+    "Subline": "Upgrade your wardrobe and indulgence in the latest styles inspired by the streets of Seoul",
+    "EventLabel": "SAL|Women|weoss4kfashionupto60|ALL|NA"
   },
   {
     "Placement": "wn2",
@@ -224,20 +224,20 @@
     "Gender": "men",
     "Device": "desktop",
     "Image": "https://static-ph.zacdn.com/cms/DY/Skinny-left_buy-2.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_five=eoss-buy2get25off",
-    "Headline": "Buy 2, Get 25% off",
-    "Subline": "Take a break and enjoy this well-deserved style upgrade",
-    "EventLabel": "SAL|Men|meoss4rplbuy2get25off|ALL|NA"
+    "Exit Url": "/men/all-products/?vc=ENJOY20",
+    "Headline": "Up to 80% Off + 20% off Use Code: Enjoy20",
+    "Subline": "Ends July 17, 2017<br> Min. spend P2000<br>Valid on sale and new arrivals. Brand exclusions apply.",
+    "EventLabel": "SAL|Men|meosspaydayrewardyourselfget20off|ALL|NA"
   },
   {
     "Placement": "msr1",
     "Gender": "men",
     "Device": "desktop",
     "Image": "https://static-ph.zacdn.com/cms/DY/Skinny-left_everythinat1000.jpg",
-    "Exit Url": "/men/all-products/?vc=ENJOY20",
-    "Headline": "Up to 80% Off + 20% off Use Code: Enjoy20",
-    "Subline": "Ends July 17, 2017<br> Min. spend P2000<br>Valid on sale and new arrivals. Brand exclusions apply.",
-    "EventLabel": "SAL|Men|meosspaydayrewardyourselfget20off|ALL|NA"
+    "Exit Url": "/men/all-products/?cmpgn_five=eoss-buy2get25off",
+    "Headline": "Buy 2, Get 25% off",
+    "Subline": "Take a break and enjoy this well-deserved style upgrade",
+    "EventLabel": "SAL|Men|meoss4rplbuy2get25off|ALL|NA"
   },
   {
     "Placement": "mh1",
@@ -414,10 +414,10 @@
     "Gender": "women",
     "Device": "mobile",
     "Image": "https://static-ph.zacdn.com/cms/DY/W_Kfashion_upto60off_Eoss_620x420.jpg",
-    "Exit Url": "/women/clothing/all-products/nike/?getSKU=NI126US05LLYPH--NI126US25DDUPH--NI126US70AZHPH--NI126US84XOHPH--NI126US87CZOPH--NI126US62PRPPH--NI126US36NDBPH--NI126US99CZCPH--NI126US29CVMPH--NI126US01CZAPH",
-    "Headline": "CLN K-POP EXCLUSIVES",
-    "Subline": "From everyday essentials to statement pieces, the latest collection of CLN offers the best of Korean fashion",
-    "EventLabel": "SAL|Women|weoss4kfashionexclusive|ALL|NA"
+    "Exit Url": "/women/k-fashion/special-price/",
+    "Headline": "KOREAN FASHION- Up to 60% off",
+    "Subline": "Upgrade your wardrobe and indulgence in the latest styles inspired by the streets of Seoul",
+    "EventLabel": "SAL|Women|weoss4kfashionupto60|ALL|NA"
   },
   {
     "Placement": "wc1",
