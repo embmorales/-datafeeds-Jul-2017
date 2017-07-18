@@ -234,10 +234,10 @@
     "Gender": "men",
     "Device": "desktop",
     "Image": "https://static-ph.zacdn.com/cms/DY/20170713_W_Omnibus_UpTo80off_right_skinny_495x25.jpg",
-    "Exit Url": "/men/esprit/special-price/",
-    "Headline": "ESPRIT - FINAL SALE UP TO 70% OFF",
-    "Subline": "Last chance, so don't hold back!",
-    "EventLabel": "SAL|Women|weoss5esprit|ALL|ZAP"
+    "Exit Url": "/men/all-products/?cmpgn_four=eoss-buy3get30off",
+    "Headline": "Buy 3 Get 30% Off",
+    "Subline": "Back by popular demand - make your purchase now",
+    "EventLabel": "SAL|Men|meoss5buy3get30off|ALL|NA"
   },
   {
     "Placement": "mh1",
@@ -245,8 +245,8 @@
     "Device": "desktop",
     "Image": "https://static-ph.zacdn.com/cms/DY/M_RPL_Buy3get30off_996x500.jpg",
     "Exit Url": "/men/all-products/?cmpgn_four=eoss-buy3get30off",
-    "Headline": "Buy 3 Get 30% Off",
-    "Subline": "Back by popular demand - make your purchase now",
+    "Headline": "NA",
+    "Subline": "NA",
     "EventLabel": "SAL|Men|meoss5buy3get30off|ALL|NA"
   },
   {
@@ -443,11 +443,11 @@
     "Placement": "ms1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "NA",
-    "Exit Url": "NA",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "NA"
+    "Image": "https://static-ph.zacdn.com/cms/DY/Men_rpl_buy3get30off_700x200.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_four=eoss-buy3get30off",
+    "Headline": "Buy 3 Get 30% Off",
+    "Subline": "Back by popular demand - make your purchase now",
+    "EventLabel": "SAL|Men|meoss5buy3get30off|ALL|NA"
   },
   {
     "Placement": "mh1",
