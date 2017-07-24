@@ -15,7 +15,7 @@
     "Device": "desktop",
     "Image": "https://static-ph.zacdn.com/cms/DY/W_everything649buy3for1500_skinny_left_495x25.jpg",
     "Exit Url": "/women/all-products/?cmpgn_four=buy3-1500",
-    "Headline": "<span style = \"color:#fff\">EVERYTHING AT P649, BUY 3 FOR P1,500</span>",
+    "Headline": "<span style = \"color:#fff\">EVERYTHING AT P649,</span> <span style = \"color:#fe00a1\">BUY 3 FOR P1,500</span>",
     "Subline": "Shop more for greater discounts!",
     "EventLabel": "SAL|Women|weoss6everythingat649buy3for1500|ALL|NA"
   },
@@ -25,7 +25,7 @@
     "Device": "desktop",
     "Image": "https://static-ph.zacdn.com/cms/DY/W_everything649buy3for1500_skinny_right_495x25.jpg",
     "Exit Url": "/women/all-products/?cmpgn_one=eoss-sportsclearance",
-    "Headline": "<span style = \"color:#fff\">Sports Brands Up to 60% Off</span>",
+    "Headline": "<span style = \"color:#fff\">Sports Brands </span> <span style = \"color:#fe00a1\">Up to 60% Off</span>",
     "Subline": "Redefine your limits with Ivy Park, adidas, Onitsuka Tiger & more",
     "EventLabel": "SAL|Women|weoss6sportsclearance|ALL|NA"
   },
@@ -225,7 +225,7 @@
     "Device": "desktop",
     "Image": "https://static-ph.zacdn.com/cms/DY/EOSS_Phase_3_Skinny_Left_2.jpg",
     "Exit Url": "/men/all-products/?cmpgn_two=eoss-last-size",
-    "Headline": "<span style = \"color:#fff\">LAST SIZES UP TO 80% OFF</span>",
+    "Headline": "<span style = \"color:#fff\">LAST SIZES </span> <span style = \"color:#4eff00\">UP TO 80% OFF</span>",
     "Subline": "Attractive prices on these remaining pieces, take all your favorites while supplies last!",
     "EventLabel": "SAL|Men|meoss6lastsizeupto80off|ALL|NA"
   },
@@ -235,7 +235,7 @@
     "Device": "desktop",
     "Image": "https://static-ph.zacdn.com/cms/DY/EOSS_Phase_3_Skinny_Right_1.jpg",
     "Exit Url": "/men/all-products/?cmpgn_three=ffw-buy2get30",
-    "Headline": "<span style = \"color:#fff\">Buy 2 and Get Extra 30% Off</span>",
+    "Headline": "<span style = \"color:#fff\">Buy 2 and </span> <span style = \"color:#4eff00\">Get Extra 30% Off</span>",
     "Subline": "Enjoy this perk on top of markdowns up to 60% off",
     "EventLabel": "SAL|Men|meoss6buy2get30off|ALL|NA"
   },
