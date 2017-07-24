@@ -14,7 +14,7 @@
     "Gender": "women",
     "Device": "desktop",
     "Image": "https://static-ph.zacdn.com/cms/DY/W_everything649buy3for1500_skinny_left_495x25.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_four=buy3-1500",
+    "Exit Url": "/women/all-products/?cmpgn_four=buy3-1500&price=649-649",
     "Headline": "<span style = \"color:#fff\">EVERYTHING AT P649,</span> <span style = \"color:#fe00a1\">BUY 3 FOR P1,500</span>",
     "Subline": "Shop more for greater discounts!",
     "EventLabel": "SAL|Women|weoss6everythingat649buy3for1500|ALL|NA"
@@ -34,7 +34,7 @@
     "Gender": "women",
     "Device": "desktop",
     "Image": "https://static-ph.zacdn.com/cms/DY/W_everything649buy3for1500_Hero_996x500.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_four=buy3-1500",
+    "Exit Url": "/women/all-products/?cmpgn_four=buy3-1500&price=649-649",
     "Headline": "NA",
     "Subline": "NA",
     "EventLabel": "SAL|Women|weoss6everythingat649buy3for1500|ALL|NA"
@@ -384,7 +384,7 @@
     "Gender": "women",
     "Device": "mobile",
     "Image": "https://static-ph.zacdn.com/cms/DY/W_everything649buy3for1500_mobile_skinny_700x200.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_four=buy3-1500",
+    "Exit Url": "/women/all-products/?cmpgn_four=buy3-1500&price=649-649",
     "Headline": "NA",
     "Subline": "NA",
     "EventLabel": "SAL|Women|weoss6everythingat649buy3for1500|ALL|NA"
@@ -394,7 +394,7 @@
     "Gender": "women",
     "Device": "mobile",
     "Image": "https://static-ph.zacdn.com/cms/DY/W_everything649buy3for1500_MobileWeb_600x600.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_four=buy3-1500",
+    "Exit Url": "/women/all-products/?cmpgn_four=buy3-1500&price=649-649",
     "Headline": "NA",
     "Subline": "NA",
     "EventLabel": "SAL|Women|weoss6everythingat649buy3for1500|ALL|NA"
@@ -485,8 +485,8 @@
     "Device": "mobile",
     "Image": "https://static-ph.zacdn.com/cms/DY/20170721_M_Cat_300x198_Backpacks.jpg",
     "Exit Url": "/men/bags/backpacks/special-price",
-    "Headline": "NA",
-    "Subline": "NA",
+    "Headline": "Shop Backpacks >",
+    "Subline": "Shop Backpacks >",
     "EventLabel": "SAL|Men|meoss6Backpacks|ALL|NA"
   },
   {
@@ -495,8 +495,8 @@
     "Device": "mobile",
     "Image": "https://static-ph.zacdn.com/cms/DY/20170721_M_Cat_300x198_Lace-Up-Sneakers.jpg",
     "Exit Url": "/men/shoes/lace-up/special-price/",
-    "Headline": "NA",
-    "Subline": "NA",
+    "Headline": "Shop Lace Up Sneakers >",
+    "Subline": "Shop Lace Up Sneakers >",
     "EventLabel": "SAL|Men|meoss6LaceupSneakers|ALL|NA"
   },
   {
