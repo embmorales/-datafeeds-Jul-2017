@@ -43,11 +43,11 @@
     "Placement": "wn1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/Flossy_Hello_Kitty_360x420.jpg",
-    "Exit Url": "/women/flossy/?sort=latest%20arrival",
-    "Headline": "FLOSSY x HELLO KITTY",
-    "Subline": "With styles ranging from artsy, classic, edgy, playful & romantic, we've got the pair for you",
-    "EventLabel": "TRE|Women|weoss5flossyhellokitty|ALL|NA"
+    "Image": "https://static-ph.zacdn.com/cms/DY/EOSS_phase3_SportsClearance_360x420_W.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=eoss-sportsclearance",
+    "Headline": "Sports Brands Up to 60% Off",
+    "Subline": "Redefine your limits with Ivy Park, adidas, Onitsuka Tiger & more",
+    "EventLabel": "SAL|Women|weoss6sportsclearance|ALL|NA"
   },
   {
     "Placement": "wn2",
