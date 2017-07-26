@@ -44,7 +44,7 @@
     "Gender": "women",
     "Device": "desktop",
     "Image": "https://static-ph.zacdn.com/cms/DY/EOSS_phase3_SportsClearance_360x420_W.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=eoss-sportsclearance",
+    "Exit Url": "/women/all-products/?cmpgn_one=eoss-sportsclearance&sort=discount&dir=desc",
     "Headline": "Sports Brands Up to 60% Off",
     "Subline": "Redefine your limits with Ivy Park, adidas, Onitsuka Tiger & more",
     "EventLabel": "SAL|Women|weoss6sportsclearance|ALL|NA"
@@ -414,7 +414,7 @@
     "Gender": "women",
     "Device": "mobile",
     "Image": "https://static-ph.zacdn.com/cms/DY/EOSS_phase3_SportsClearance_620x420_W.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=eoss-sportsclearance",
+    "Exit Url": "/women/all-products/?cmpgn_one=eoss-sportsclearance&sort=discount&dir=desc",
     "Headline": "Sports Brands Up to 60% Off",
     "Subline": "Redefine your limits with Ivy Park, adidas, Onitsuka Tiger & more",
     "EventLabel": "SAL|Women|weoss6sportsclearance|ALL|NA"
