@@ -143,11 +143,11 @@
     "Placement": "wfb5",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/20170721_W_FB_Lipault_322x165.jpg",
-    "Exit Url": "/women/lipault/special-price/",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170727_Dsk_322x165_w_adidas.jpg",
+    "Exit Url": "/women/adidas/special-price/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Women|weoss6Lipault|ALL|NA"
+    "EventLabel": "SAL|Women|weoss6adidas|ALL|NA"
   },
   {
     "Placement": "wfb6",
@@ -303,11 +303,11 @@
     "Placement": "mfb4",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/20170721_M_FB_SwissPolo_322x165.jpg",
-    "Exit Url": "/men/special-price/swiss-polo/",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170727_Dsk_322x165_m_adidas.jpg",
+    "Exit Url": "/men/special-price/adidas",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Men|meoss6SwissPolo|ALL|NA"
+    "EventLabel": "SAL|Men|meoss6adidas|ALL|NA"
   },
   {
     "Placement": "mfb5",
